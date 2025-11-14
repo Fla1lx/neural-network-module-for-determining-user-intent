@@ -1,191 +1,660 @@
-{"skill": "time.now", "text": "подскажи время пожалуйста"}
-{"skill": "news.get", "text": "последние новости в екатеринбурге пж"}
-{"skill": "news.get", "text": "что нового в теме политику"}
-{"skill": "weather.get", "text": "пожалуйста мне нужна погода в екатеринбурге"}
-{"skill": "math.calc", "text": "пожалуйста сколько будет 2 плюс 3"}
-{"skill": "weather.get", "text": "подскажи какая погода за окном пожалуйста"}
-{"skill": "time.now", "text": "сколько времени в екатеринбурге пж"}
-{"skill": "math.calc", "text": "пожалуйста сколько будет 23 разделить на 15"}
-{"skill": "math.calc", "text": "13 плюс 6 пж"}
-{"skill": "news.get", "text": "пожалуйста дай новости про спорт"}
-{"skill": "weather.get", "text": "мне нужна погода в новосибирске"}
-{"skill": "news.get", "text": "новости про технологии пожалуйста"}
-{"skill": "music.stop", "text": "останови песню пожалуйста"}
-{"skill": "math.calc", "text": "26 минус 26"}
-{"skill": "news.get", "text": "последние новости в санкт петербурге пж"}
-{"skill": "math.calc", "text": "12 минус 5 пожалуйста"}
-{"skill": "time.now", "text": "напомни сколько времени пж"}
-{"skill": "math.calc", "text": "сколько будет 25 разделить на 11 пж"}
-{"skill": "weather.get", "text": "пожалуйста какая погода в новосибирске"}
-{"skill": "math.calc", "text": "пожалуйста посчитай 22 плюс 2"}
-{"skill": "music.stop", "text": "выключи музыку пожалуйста"}
-{"skill": "weather.get", "text": "пожалуйста что по осадкам сегодня"}
-{"skill": "news.get", "text": "хочу почитать новости"}
-{"skill": "math.calc", "text": "посчитай 15 минус 7"}
-{"skill": "weather.get", "text": "покажи прогноз погоды в новосибирске пожалуйста"}
-{"skill": "music.stop", "text": "пожалуйста останови песню"}
-{"skill": "news.get", "text": "последние новости в {city} пожалуйста"}
-{"skill": "weather.get", "text": "мне нужна погода в санкт петербурге"}
-{"skill": "news.get", "text": "последние новости про спорт"}
-{"skill": "weather.get", "text": "пожалуйста погода на выходные в москве"}
-{"skill": "news.get", "text": "пожалуйста что пишут про казани в новостях"}
-{"skill": "math.calc", "text": "сколько будет 21 умножить на 28 пж"}
-{"skill": "news.get", "text": "пожалуйста последние новости про технологии"}
-{"skill": "weather.get", "text": "пожалуйста мне нужна погода в москве"}
-{"skill": "math.calc", "text": "посчитай 8 разделить на 22 пж"}
-{"skill": "weather.get", "text": "будет ли дождь завтра в санкт петербурге пж"}
-{"skill": "weather.get", "text": "расскажи про погоду в екатеринбурге пж"}
-{"skill": "music.stop", "text": "пожалуйста слишком громко останови музыку"}
-{"skill": "news.get", "text": "дай новости про политику"}
-{"skill": "news.get", "text": "последние новости про политику пожалуйста"}
-{"skill": "weather.get", "text": "пожалуйста какая температура в {city} ночью"}
-{"skill": "news.get", "text": "пожалуйста хочу почитать новости"}
-{"skill": "weather.get", "text": "покажи прогноз погоды на неделю"}
-{"skill": "music.stop", "text": "пожалуйста сделай паузу"}
-{"skill": "math.calc", "text": "сколько будет 26 минус 22 пж"}
-{"skill": "weather.get", "text": "пожалуйста покажи прогноз погоды в новосибирске"}
-{"skill": "music.stop", "text": "останови музыку пожалуйста"}
-{"skill": "news.get", "text": "дай новости про игры пж"}
-{"skill": "weather.get", "text": "погода на выходные пж"}
-{"skill": "news.get", "text": "пожалуйста последние новости про игры"}
-{"skill": "weather.get", "text": "пожалуйста будет ли дождь завтра в {city}"}
-{"skill": "news.get", "text": "дай новости про политику пж"}
-{"skill": "music.stop", "text": "пожалуйста выключи музыку"}
-{"skill": "weather.get", "text": "подскажи погоду на завтра пожалуйста"}
-{"skill": "news.get", "text": "новости про культуру пж"}
-{"skill": "math.calc", "text": "посчитай 14 плюс 25"}
-{"skill": "time.now", "text": "мне нужно узнать время пж"}
-{"skill": "weather.get", "text": "погода на выходные"}
-{"skill": "weather.get", "text": "какая температура на улице пожалуйста"}
-{"skill": "weather.get", "text": "пожалуйста расскажи про погоду в санкт петербурге"}
-{"skill": "news.get", "text": "что нового в теме технологии"}
-{"skill": "news.get", "text": "что нового в теме спорт"}
-{"skill": "news.get", "text": "что пишут про {city} в новостях пж"}
-{"skill": "math.calc", "text": "посчитай 28 плюс 30"}
-{"skill": "news.get", "text": "расскажи главные новости за сегодня"}
-{"skill": "news.get", "text": "дай новости про культуру пж"}
-{"skill": "weather.get", "text": "мне нужна погода в казани пж"}
-{"skill": "math.calc", "text": "пожалуйста сколько будет 24 умножить на 18"}
-{"skill": "weather.get", "text": "пожалуйста погода на выходные в санкт петербурге"}
-{"skill": "weather.get", "text": "какая температура в казани ночью пж"}
-{"skill": "news.get", "text": "что происходит в санкт петербурге пж"}
-{"skill": "news.get", "text": "что сегодня обсуждают в новостях пожалуйста"}
-{"skill": "math.calc", "text": "посчитай 9*15 пожалуйста"}
-{"skill": "math.calc", "text": "сколько будет 29 умножить на 12 пж"}
-{"skill": "math.calc", "text": "посчитай 10 минус 10"}
-{"skill": "news.get", "text": "пожалуйста что происходит в екатеринбурге"}
-{"skill": "music.stop", "text": "выключи трек пж"}
-{"skill": "math.calc", "text": "посчитай 24 плюс 20 пожалуйста"}
-{"skill": "weather.get", "text": "какая температура в {city} ночью пж"}
-{"skill": "math.calc", "text": "15 разделить на 6"}
-{"skill": "math.calc", "text": "посчитай 23*23"}
-{"skill": "music.stop", "text": "останови плеер пожалуйста"}
-{"skill": "weather.get", "text": "расскажи про погоду в екатеринбурге"}
-{"skill": "weather.get", "text": "как одеться по погоде пж"}
-{"skill": "music.stop", "text": "музыка мешает работе выключи ее пж"}
-{"skill": "math.calc", "text": "посчитай 4 плюс 14 пожалуйста"}
-{"skill": "weather.get", "text": "какая погода в санкт петербурге пожалуйста"}
-{"skill": "news.get", "text": "что нового в мире пожалуйста"}
-{"skill": "math.calc", "text": "сколько будет 9 плюс 26 пж"}
-{"skill": "time.now", "text": "какое сейчас время в санкт петербурге"}
-{"skill": "news.get", "text": "что пишут про екатеринбурге в новостях пж"}
-{"skill": "time.now", "text": "пожалуйста какое сейчас время в екатеринбурге"}
-{"skill": "math.calc", "text": "посчитай 6 умножить на 10"}
-{"skill": "time.now", "text": "какое сейчас время в новосибирске пожалуйста"}
-{"skill": "time.now", "text": "сколько сейчас времени на часах пожалуйста"}
-{"skill": "weather.get", "text": "как там погода в санкт петербурге сейчас пж"}
-{"skill": "time.now", "text": "подскажи время в новосибирске пж"}
-{"skill": "time.now", "text": "скажи точное время пожалуйста"}
-{"skill": "weather.get", "text": "пожалуйста какая погода этим вечером"}
-{"skill": "weather.get", "text": "погода на выходные пожалуйста"}
-{"skill": "news.get", "text": "пожалуйста новости про спорт"}
-{"skill": "music.stop", "text": "сделай паузу пж"}
-{"skill": "news.get", "text": "последние новости про политику"}
-{"skill": "math.calc", "text": "пожалуйста 16 минус 21"}
-{"skill": "news.get", "text": "подбери для меня важные новости"}
-{"skill": "time.now", "text": "какое сейчас время в санкт петербурге пожалуйста"}
-{"skill": "news.get", "text": "пожалуйста что сегодня обсуждают в новостях"}
-{"skill": "math.calc", "text": "пожалуйста сколько будет 23 плюс 26"}
-{"skill": "math.calc", "text": "пожалуйста посчитай 27/11"}
-{"skill": "music.stop", "text": "сделай паузу"}
-{"skill": "math.calc", "text": "сколько будет 12 плюс 2 пожалуйста"}
-{"skill": "weather.get", "text": "погода на завтра в новосибирске пж"}
-{"skill": "math.calc", "text": "посчитай 22 разделить на 21 пж"}
-{"skill": "time.now", "text": "напомни сколько времени пожалуйста"}
-{"skill": "news.get", "text": "что интересного произошло сегодня пж"}
-{"skill": "time.now", "text": "пожалуйста подскажи время в екатеринбурге"}
-{"skill": "news.get", "text": "пожалуйста последние новости про спорт"}
-{"skill": "weather.get", "text": "расскажи про погоду в новосибирске пж"}
-{"skill": "news.get", "text": "что нового в теме экономику пожалуйста"}
-{"skill": "math.calc", "text": "17 минус 29 пж"}
-{"skill": "math.calc", "text": "посчитай 5 умножить на 14 пж"}
-{"skill": "music.stop", "text": "поставь на паузу пожалуйста"}
-{"skill": "math.calc", "text": "11 плюс 18 пж"}
-{"skill": "weather.get", "text": "пожалуйста какая температура в санкт петербурге ночью"}
-{"skill": "weather.get", "text": "покажи прогноз погоды в москве пж"}
-{"skill": "news.get", "text": "дай новости про технологии пожалуйста"}
-{"skill": "math.calc", "text": "25 умножить на 23"}
-{"skill": "news.get", "text": "новости про политику пожалуйста"}
-{"skill": "math.calc", "text": "пожалуйста посчитай 2-21"}
-{"skill": "news.get", "text": "пожалуйста что пишут в новостях"}
-{"skill": "math.calc", "text": "посчитай 19 разделить на 25"}
-{"skill": "news.get", "text": "что нового в теме политику пж"}
-{"skill": "math.calc", "text": "20 умножить на 21 пожалуйста"}
-{"skill": "weather.get", "text": "пожалуйста расскажи про погоду в {city}"}
-{"skill": "weather.get", "text": "какая температура в {city} ночью"}
-{"skill": "music.stop", "text": "слишком громко останови музыку пж"}
-{"skill": "music.stop", "text": "пожалуйста музыка мешает работе выключи ее"}
-{"skill": "weather.get", "text": "какая погода в екатеринбурге"}
-{"skill": "news.get", "text": "новости про игры"}
-{"skill": "math.calc", "text": "12 плюс 24"}
-{"skill": "weather.get", "text": "ожидается ли снег сегодня пожалуйста"}
-{"skill": "music.stop", "text": "пожалуйста приглуши и останови музыку"}
-{"skill": "time.now", "text": "сколько времени в новосибирске пожалуйста"}
-{"skill": "time.now", "text": "сколько времени в санкт петербурге"}
-{"skill": "weather.get", "text": "будет ли сегодня дождь"}
-{"skill": "time.now", "text": "который сейчас час пж"}
-{"skill": "time.now", "text": "сколько времени в новосибирске пж"}
-{"skill": "news.get", "text": "дай новости про технологии пж"}
-{"skill": "news.get", "text": "последние новости в {city}"}
-{"skill": "weather.get", "text": "какая сейчас погода"}
-{"skill": "news.get", "text": "последние новости про погоду пожалуйста"}
-{"skill": "time.now", "text": "сколько времени пожалуйста"}
-{"skill": "time.now", "text": "сколько времени"}
-{"skill": "math.calc", "text": "сколько будет 13 плюс 1 пж"}
-{"skill": "math.calc", "text": "пожалуйста сколько будет 24 минус 26"}
-{"skill": "music.stop", "text": "я хочу тишины выключи музыку пожалуйста"}
-{"skill": "math.calc", "text": "посчитай 10 плюс 13 пж"}
-{"skill": "news.get", "text": "пожалуйста дай новости про игры"}
-{"skill": "news.get", "text": "что происходит в казани пожалуйста"}
-{"skill": "math.calc", "text": "сколько будет 7 разделить на 25 пж"}
-{"skill": "weather.get", "text": "пожалуйста какая погода в санкт петербурге"}
-{"skill": "math.calc", "text": "посчитай 27*9 пожалуйста"}
-{"skill": "weather.get", "text": "как там погода в {city} сейчас пж"}
-{"skill": "news.get", "text": "новости про культуру"}
-{"skill": "news.get", "text": "что происходит в {city} пж"}
-{"skill": "time.now", "text": "какое сейчас время в екатеринбурге пж"}
-{"skill": "weather.get", "text": "какая погода в {city}"}
-{"skill": "time.now", "text": "мне интересно текущее время"}
-{"skill": "math.calc", "text": "посчитай 14 умножить на 25 пж"}
-{"skill": "time.now", "text": "пожалуйста сколько времени в {city}"}
-{"skill": "math.calc", "text": "пожалуйста посчитай 16/13"}
-{"skill": "news.get", "text": "что пишут про москве в новостях пж"}
-{"skill": "weather.get", "text": "какая погода будет ночью пж"}
-{"skill": "math.calc", "text": "23 плюс 2"}
-{"skill": "time.now", "text": "мне интересно текущее время пожалуйста"}
-{"skill": "math.calc", "text": "посчитай 1 плюс 17 пожалуйста"}
-{"skill": "weather.get", "text": "пожалуйста будет ли дождь завтра в новосибирске"}
-{"skill": "music.stop", "text": "не играй музыку"}
-{"skill": "weather.get", "text": "пожалуйста покажи прогноз погоды в москве"}
-{"skill": "math.calc", "text": "посчитай 9*22 пожалуйста"}
-{"skill": "news.get", "text": "последние новости про технологии пж"}
-{"skill": "math.calc", "text": "сколько будет 1 разделить на 25 пж"}
-{"skill": "time.now", "text": "подскажи время в екатеринбурге"}
-{"skill": "weather.get", "text": "будет ли дождь завтра в новосибирске"}
-{"skill": "weather.get", "text": "пожалуйста какая погода на улице сейчас"}
-{"skill": "weather.get", "text": "пожалуйста погода на завтра в новосибирске"}
-{"skill": "weather.get", "text": "проверить погоду"}
-{"skill": "math.calc", "text": "посчитай 22 минус 3 пж"}
-{"skill": "math.calc", "text": "посчитай 14+5 пожалуйста"}
-{"skill": "math.calc", "text": "посчитай 25 разделить на 19"}
-{"skill": "news.get", "text": "что интересного произошло сегодня"}
+{"text": "музыку выключи полностью", "skill": "music.stop"}
+{"text": "пожалста засеки 3 минуты", "skill": "timer.set"}
+{"text": "что ты умеешь", "skill": "system.help"}
+{"text": "хватит играть", "skill": "music.stop"}
+{"text": "поставь будик на 9:15 пожалуйста", "skill": "alarm.set"}
+{"text": "позвони на номер 88005553535", "skill": "call.make"}
+{"text": "завтра поднми меня в 7:00", "skill": "alarm.set"}
+{"text": "пожалуйтса хватит песен", "skill": "music.stop"}
+{"text": "пожалста я не знаю, что сказать", "skill": "system.help"}
+{"text": "пожалуйста музыку выключи полностью", "skill": "music.stop"}
+{"text": "узнай опгоду в новосибе на выходные", "skill": "weather.get"}
+{"text": "пожалста пауза", "skill": "music.stop"}
+{"text": "будь добр таймер на час пожалуйста", "skill": "timer.set"}
+{"text": "холодно сейчас в нижнем новгороде?", "skill": "weather.get"}
+{"text": "мне нужна помощь", "skill": "system.help"}
+{"text": "давай юморку", "skill": "jokes.get"}
+{"text": "кидай мечик словами пожалуйста", "skill": "jokes.get"}
+{"text": "включи плейлист спотифая", "skill": "music.play"}
+{"text": "что в стране происходит пожалуйста", "skill": "news.get"}
+{"text": "пожалста подскажи, что ты делаешь", "skill": "system.help"}
+{"text": "пожалуйста выключи музыку", "skill": "music.stop"}
+{"text": "позвони маме", "skill": "call.make"}
+{"text": "звони парю пожалуйста", "skill": "call.make"}
+{"text": "пошути про про начальника", "skill": "jokes.get"}
+{"text": "в понедльник скажи мне, что надо сделать домашку", "skill": "reminder.set"}
+{"text": "какие новости", "skill": "news.get"}
+{"text": "пожалста новости по региону", "skill": "news.get"}
+{"text": "что по времени", "skill": "time.now"}
+{"text": "позвони бабушке", "skill": "call.make"}
+{"text": "я боюсь забыть забрать сына из сада, напомни через два часа", "skill": "reminder.set"}
+{"text": "сильон ли ветер в питере", "skill": "weather.get"}
+{"text": "сигнал в 6:45 поставь", "skill": "alarm.set"}
+{"text": "позвони бабушке", "skill": "call.make"}
+{"text": "дай прикол", "skill": "jokes.get"}
+{"text": "хватит песен, срочно", "skill": "music.stop"}
+{"text": "включи дорогу музыку в стиле лоуфай", "skill": "music.play"}
+{"text": "есть что‑нибудь свеженькое и новостей", "skill": "news.get"}
+{"text": "пожалста наберии маме", "skill": "call.make"}
+{"text": "ачсы покажи, срочно", "skill": "time.now"}
+{"text": "мне бы время узнать", "skill": "time.now"}
+{"text": "пожалста кидай мемчик словами", "skill": "jokes.get"}
+{"text": "засеки 3 минуты", "skill": "timer.set"}
+{"text": "что с погодой в нижнем новгороде на завтра утром", "skill": "weather.get"}
+{"text": "во сколько сейчас", "skill": "time.now"}
+{"text": "что с погодой за окном на завтра утром", "skill": "weather.get"}
+{"text": "что в стране происходит", "skill": "news.get"}
+{"text": "что там по погоде в стране но именно в новостях", "skill": "news.get"}
+{"text": "хочу что‑нибудь смешное пожалуйста", "skill": "jokes.get"}
+{"text": "поддержка нужна пожалуйста", "skill": "system.help"}
+{"text": "пусть играетч то‑нибудь фоном", "skill": "music.play"}
+{"text": "пожалуйста заверш ивоспроизведнеие", "skill": "music.stop"}
+{"text": "набери девушке, срочно", "skill": "call.make"}
+{"text": "что там по погоде в питере", "skill": "weather.get"}
+{"text": "пожалуйста хватит играть", "skill": "music.stop"}
+{"text": "как тебяиспользовать", "skill": "system.help"}
+{"text": "позвони другу из москве, срочно", "skill": "call.make"}
+{"text": "через 10 минут напомни пожалуйста", "skill": "timer.set"}
+{"text": "что по новостям про выборы пожалуйста", "skill": "news.get"}
+{"text": "давай юмрку, срочно", "skill": "jokes.get"}
+{"text": "хватит псен", "skill": "music.stop"}
+{"text": "таймер три миутки", "skill": "timer.set"}
+{"text": "отметь, что надо сделать бэкап через два часа пожалуйста", "skill": "reminder.set"}
+{"text": "объясни, как с тобой раотать", "skill": "system.help"}
+{"text": "хватит песен пожалуйста", "skill": "music.stop"}
+{"text": "дайприкол", "skill": "jokes.get"}
+{"text": "новоти по региону", "skill": "news.get"}
+{"text": "поставь таймер на три минутки", "skill": "timer.set"}
+{"text": "пожалста хватит играть", "skill": "music.stop"}
+{"text": "сделай напоминание послезавтра про оплатить коммуналку", "skill": "reminder.set"}
+{"text": "отметь, что надо забрать посылку через два часа, срочно", "skill": "reminder.set"}
+{"text": "какое сейчас время, срочно", "skill": "time.now"}
+{"text": "включи мне лоуфай для работы", "skill": "music.play"}
+{"text": "будилник завтра на 6:45", "skill": "alarm.set"}
+{"text": "наберии максиму", "skill": "call.make"}
+{"text": "будь добр таймер на час", "skill": "timer.set"}
+{"text": "пауза", "skill": "music.stop"}
+{"text": "напомни мне проснутсья в 10:00", "skill": "alarm.set"}
+{"text": "ачсы покажи", "skill": "time.now"}
+{"text": "хочу послушать дорe", "skill": "music.play"}
+{"text": "таймер 10 имнут", "skill": "timer.set"}
+{"text": "сделай потише и останови, срочно", "skill": "music.stop"}
+{"text": "будильник завтра на 5:55, срочно", "skill": "alarm.set"}
+{"text": "дай подсказку, чем ты полезен, срочно", "skill": "system.help"}
+{"text": "отметь, что надо забрать посылку через два часа", "skill": "reminder.set"}
+{"text": "хочу что‑нибудь ритмичное", "skill": "music.play"}
+{"text": "выключим узыку пожалуйста", "skill": "music.stop"}
+{"text": "яне знаю, что сказать", "skill": "system.help"}
+{"text": "поставь будильник на 6:45", "skill": "alarm.set"}
+{"text": "свяжи меня с сестре", "skill": "call.make"}
+{"text": "объясни, как с тобой раотать пожалуйста", "skill": "system.help"}
+{"text": "что по времени", "skill": "time.now"}
+{"text": "запусти обратный отсчет на 3 минуты, срочно", "skill": "timer.set"}
+{"text": "пожалста можешь помочь азобраться", "skill": "system.help"}
+{"text": "напомни мне оплатить коммуналку сегодня вечером", "skill": "reminder.set"}
+{"text": "что по времени", "skill": "time.now"}
+{"text": "включи дорогу музыку в стиле хаус", "skill": "music.play"}
+{"text": "посмтори погоду в санкт-петербурге на сегодня", "skill": "weather.get"}
+{"text": "вклчюи саундтрек из спотифая", "skill": "music.play"}
+{"text": "будет гроза у меня вечером", "skill": "weather.get"}
+{"text": "сделай стоп", "skill": "music.stop"}
+{"text": "свяжи меня с начальнику", "skill": "call.make"}
+{"text": "поддержка нужна пожалуйста", "skill": "system.help"}
+{"text": "сколько вемени", "skill": "time.now"}
+{"text": "таймер 15 минут", "skill": "timer.set"}
+{"text": "ачсы покажи", "skill": "time.now"}
+{"text": "который час, срочно", "skill": "time.now"}
+{"text": "давай что‑нибудь потише", "skill": "music.play"}
+{"text": "будь обр таймер на пять минут, срочно", "skill": "timer.set"}
+{"text": "не дай ме забыть забрать сына из сада через неделю", "skill": "reminder.set"}
+{"text": "мне нужно проснуться в 10:00", "skill": "alarm.set"}
+{"text": "сделай напоминание через неделю про сделать домашку", "skill": "reminder.set"}
+{"text": "стоп музыка", "skill": "music.stop"}
+{"text": "мне таймер на пять минут для готовки", "skill": "timer.set"}
+{"text": "новости п орегиону пожалуйста", "skill": "news.get"}
+{"text": "звони мужу", "skill": "call.make"}
+{"text": "разбуди меня в 6:45", "skill": "alarm.set"}
+{"text": "какяа погода в краснодаре", "skill": "weather.get"}
+{"text": "разбуди меня в 5:55", "skill": "alarm.set"}
+{"text": "напоми мне проверить почту в понедельник", "skill": "reminder.set"}
+{"text": "ставь мой любимый трек", "skill": "music.play"}
+{"text": "что ты умеешь", "skill": "system.help"}
+{"text": "звони парю", "skill": "call.make"}
+{"text": "раскажи шутку", "skill": "jokes.get"}
+{"text": "какая температура вс очи", "skill": "weather.get"}
+{"text": "помсотри погоду в екатеринбурге на сегодня", "skill": "weather.get"}
+{"text": "который час, срочно", "skill": "time.now"}
+{"text": "поставь будильник на 7:30", "skill": "alarm.set"}
+{"text": "зсаеки 2 часа", "skill": "timer.set"}
+{"text": "таймер три миутки", "skill": "timer.set"}
+{"text": "не забудь сказать мне про купить хлеб черзе час", "skill": "reminder.set"}
+{"text": "новоти по региону", "skill": "news.get"}
+{"text": "звони максиму", "skill": "call.make"}
+{"text": "пожалста дай подсказку, чем ты полезен", "skill": "system.help"}
+{"text": "позвони мне паню сейчас пожалуйста", "skill": "call.make"}
+{"text": "вруби что‑нибудь", "skill": "music.play"}
+{"text": "что там по погоде в стране но именно в нвостях", "skill": "news.get"}
+{"text": "вкюлчи плейлист утро", "skill": "music.play"}
+{"text": "хоч утрек", "skill": "music.play"}
+{"text": "пожалста напомни мне проснуться в 8:00", "skill": "alarm.set"}
+{"text": "наберии максиму пожалуйста", "skill": "call.make"}
+{"text": "запусти последний альбом королю и шуту", "skill": "music.play"}
+{"text": "хочу послушать зверям", "skill": "music.play"}
+{"text": "будет гроза за окном вечером", "skill": "weather.get"}
+{"text": "пожалста какое сейчас время", "skill": "time.now"}
+{"text": "песня для на включи", "skill": "music.play"}
+{"text": "узнай погоду в самаре на выходные", "skill": "weather.get"}
+{"text": "сколько градусов в нижнем новгороде", "skill": "weather.get"}
+{"text": "время скажи плиз", "skill": "time.now"}
+{"text": "етсь ли осадки в нижнем новгороде", "skill": "weather.get"}
+{"text": "включи саундтрек из тик ток", "skill": "music.play"}
+{"text": "мне таймер на 2 часа для готовки пожалуйста", "skill": "timer.set"}
+{"text": "пожалста какое сейчас время", "skill": "time.now"}
+{"text": "отклюи фон", "skill": "music.stop"}
+{"text": "пожалста время скажи плиз", "skill": "time.now"}
+{"text": "пожалста выключим узыку", "skill": "music.stop"}
+{"text": "поставь будильник на 9:15, срочно", "skill": "alarm.set"}
+{"text": "позвони мне паню сейчас", "skill": "call.make"}
+{"text": "включ музыку", "skill": "music.play"}
+{"text": "позвони мне парню сейчас пожалуйста", "skill": "call.make"}
+{"text": "пошуи про про котиков пожалуйста", "skill": "jokes.get"}
+{"text": "что ты умеешь, пожалуйста", "skill": "system.help"}
+{"text": "мне таймер на 2 часа для готовки", "skill": "timer.set"}
+{"text": "звони мужу", "skill": "call.make"}
+{"text": "что там по погоде в стране но именно в новостях", "skill": "news.get"}
+{"text": "что спогодой в сочи на завтра утром", "skill": "weather.get"}
+{"text": "не дай мне забыть забрать посылку через два часа", "skill": "reminder.set"}
+{"text": "поставь таймер на две минутки", "skill": "timer.set"}
+{"text": "пожалста не забудь сказать мне про забрать сына из сада через неделю", "skill": "reminder.set"}
+{"text": "поставь таймер на 3 минуты", "skill": "timer.set"}
+{"text": "что ты умеешь, пожалуйста, срочно", "skill": "system.help"}
+{"text": "что говорят по телеку", "skill": "news.get"}
+{"text": "перетсань играть", "skill": "music.stop"}
+{"text": "погода в ркаснодаре", "skill": "weather.get"}
+{"text": "пожалуйста заверши воспроизведнеие", "skill": "music.stop"}
+{"text": "новости по москве", "skill": "news.get"}
+{"text": "я боюсь забыть забрать сына из сада, напомни через два часа", "skill": "reminder.set"}
+{"text": "отметь, что надо полить цветы в понедельник", "skill": "reminder.set"}
+{"text": "останови трек", "skill": "music.stop"}
+{"text": "будильник завтра на 5:55", "skill": "alarm.set"}
+{"text": "мне таймер на две минутки для готовки", "skill": "timer.set"}
+{"text": "объясни, как с тобой раотать, срочно", "skill": "system.help"}
+{"text": "пожалста что по нвоостям про футбол", "skill": "news.get"}
+{"text": "мне надо помнить сделать домашку, напомни чере два часа", "skill": "reminder.set"}
+{"text": "что ты умеешь, пожалуйста", "skill": "system.help"}
+{"text": "пожалста выруби это", "skill": "music.stop"}
+{"text": "подскажи время", "skill": "time.now"}
+{"text": "вруби что‑инбудь", "skill": "music.play"}
+{"text": "рассажи последние новости", "skill": "news.get"}
+{"text": "наберии максиму", "skill": "call.make"}
+{"text": "мне бы время узнать пожалуйста", "skill": "time.now"}
+{"text": "во сколько сейчас пожалуйста", "skill": "time.now"}
+{"text": "дай новости про технологии пожалуйста", "skill": "news.get"}
+{"text": "свяжи меня с начальнику, срочно", "skill": "call.make"}
+{"text": "через час скажи мне, что надо оплатить коммуналку пожалуйста", "skill": "reminder.set"}
+{"text": "я боюсь забыть забрать сына из сада, напомни через два часа", "skill": "reminder.set"}
+{"text": "мне грустно, рассмеши", "skill": "jokes.get"}
+{"text": "хочу послшуать басте", "skill": "music.play"}
+{"text": "дай пркиол", "skill": "jokes.get"}
+{"text": "что ты меешь, пожалуйста", "skill": "system.help"}
+{"text": "какая температура всанкт-петербурге", "skill": "weather.get"}
+{"text": "выруби это", "skill": "music.stop"}
+{"text": "дай пргноз погоды в новосибе по часам", "skill": "weather.get"}
+{"text": "подскажи, что ты делаешь", "skill": "system.help"}
+{"text": "дай прогноз погоды за окном по часам", "skill": "weather.get"}
+{"text": "сигнал в 8:00 псотавь", "skill": "alarm.set"}
+{"text": "ка кодеться за окном, не замерзну?", "skill": "weather.get"}
+{"text": "мне нужен прогноз погоды в нижнем новгороде", "skill": "weather.get"}
+{"text": "не дай мне забыть оплатить коммуналку сегодня вечером пожалуйста", "skill": "reminder.set"}
+{"text": "разбуди в 7:00 утра", "skill": "alarm.set"}
+{"text": "я боюсь забыть забрать посылку, напомни вечером", "skill": "reminder.set"}
+{"text": "можешь помочь азобраться пожалуйста", "skill": "system.help"}
+{"text": "пожалста расскажи шутку", "skill": "jokes.get"}
+{"text": "через пять минут напомни", "skill": "timer.set"}
+{"text": "позвони другу из новосибе", "skill": "call.make"}
+{"text": "есть что‑нибудь свеженькое из новостей", "skill": "news.get"}
+{"text": "сделай стоп", "skill": "music.stop"}
+{"text": "раскажи шутку", "skill": "jokes.get"}
+{"text": "напомни мне прснуться в 6:45", "skill": "alarm.set"}
+{"text": "я боюсь забыть сделать домашку, напомни сегодня вечером", "skill": "reminder.set"}
+{"text": "найди псню фокус", "skill": "music.play"}
+{"text": "пожалуйста отключи фон", "skill": "music.stop"}
+{"text": "поставь таймер а 90 секунд", "skill": "timer.set"}
+{"text": "подскажи время, срочно", "skill": "time.now"}
+{"text": "сделай звонок деду", "skill": "call.make"}
+{"text": "во сколько сейчас", "skill": "time.now"}
+{"text": "запусти последний альбом morgenstern", "skill": "music.play"}
+{"text": "завтра подними меня в 8:00 пожалуйста", "skill": "alarm.set"}
+{"text": "через две минутки напомни", "skill": "timer.set"}
+{"text": "пожалста какое сейчас время", "skill": "time.now"}
+{"text": "я не знаю, что сказать", "skill": "system.help"}
+{"text": "завтра подними меня в 8:00", "skill": "alarm.set"}
+{"text": "дай подсказку, чем ты полезен", "skill": "system.help"}
+{"text": "поставь будик на 5:55 пожалуйста", "skill": "alarm.set"}
+{"text": "а дальше что мне делать", "skill": "system.help"}
+{"text": "ещё один анек", "skill": "jokes.get"}
+{"text": "сколько вемени", "skill": "time.now"}
+{"text": "свяжи меня с жене", "skill": "call.make"}
+{"text": "мне грустно, рассмеши пожалуйста", "skill": "jokes.get"}
+{"text": "что там по погоде за окном", "skill": "weather.get"}
+{"text": "мне таймер на минутку для готовки, срочно", "skill": "timer.set"}
+{"text": "разбуди в :00 утра", "skill": "alarm.set"}
+{"text": "как тебяиспользовать", "skill": "system.help"}
+{"text": "пошути про про работу", "skill": "jokes.get"}
+{"text": "мне надо помнить сделать бэкап, напомни через неделю, срочно", "skill": "reminder.set"}
+{"text": "останови трек, срочно", "skill": "music.stop"}
+{"text": "пожалста давай без музыки", "skill": "music.stop"}
+{"text": "поставь что‑нибудь из басте", "skill": "music.play"}
+{"text": "подскажи время, срочно", "skill": "time.now"}
+{"text": "пожалста через 10 минут напомни", "skill": "timer.set"}
+{"text": "через час скажи мне, что надо оплатить коммуналку, срочно", "skill": "reminder.set"}
+{"text": "пожалста отклюи фон", "skill": "music.stop"}
+{"text": "пожалста пошути про про начальника", "skill": "jokes.get"}
+{"text": "включи плейлист для сна", "skill": "music.play"}
+{"text": "пожалста пауза", "skill": "music.stop"}
+{"text": "отметь, что надо сделать бэкап завтра", "skill": "reminder.set"}
+{"text": "сегодня веечром скажи мне, что надо проверить почту", "skill": "reminder.set"}
+{"text": "разбуди меня в 6:45 пожалуйста", "skill": "alarm.set"}
+{"text": "скажи что‑нибудь ржачное пожалуйста", "skill": "jokes.get"}
+{"text": "скажи что‑нибудь ржачное", "skill": "jokes.get"}
+{"text": "позвон начальнику", "skill": "call.make"}
+{"text": "пошуи про про котиков, срочно", "skill": "jokes.get"}
+{"text": "не дай мне забыть позвонить маме в понедельник", "skill": "reminder.set"}
+{"text": "позвони на номер +79998887766 пожалуйста", "skill": "call.make"}
+{"text": "останови трек", "skill": "music.stop"}
+{"text": "пошути про про начальника", "skill": "jokes.get"}
+{"text": "пошути про про начальника", "skill": "jokes.get"}
+{"text": "мне грустно, рассмеши пожалуйста", "skill": "jokes.get"}
+{"text": "сделай напоминание в понедельник про сдеать домашку", "skill": "reminder.set"}
+{"text": "позвони на номер +79031234567", "skill": "call.make"}
+{"text": "сколько градусов в самаре", "skill": "weather.get"}
+{"text": "какая температура в екатеринбурге", "skill": "weather.get"}
+{"text": "хочу послушать королю и шуту", "skill": "music.play"}
+{"text": "не дай мне забыть сделать бэкап сегодня вечером", "skill": "reminder.set"}
+{"text": "хочу терк", "skill": "music.play"}
+{"text": "на улице сейчас жара или как", "skill": "weather.get"}
+{"text": "помоги, срочно", "skill": "system.help"}
+{"text": "найди песню для учебы", "skill": "music.play"}
+{"text": "что ты умеешь", "skill": "system.help"}
+{"text": "какой час, срочно", "skill": "time.now"}
+{"text": "что по новостям про выборы", "skill": "news.get"}
+{"text": "включи плейлист тренировка", "skill": "music.play"}
+{"text": "напомни мне купить хлеб через час, срочно", "skill": "reminder.set"}
+{"text": "подскажи время", "skill": "time.now"}
+{"text": "поставь будильник на 9:15", "skill": "alarm.set"}
+{"text": "давай анекдот", "skill": "jokes.get"}
+{"text": "свяжи меня с диме", "skill": "call.make"}
+{"text": "поставь будик на 5:55", "skill": "alarm.set"}
+{"text": "что по новостям про выборы", "skill": "news.get"}
+{"text": "пошути про про работу пожалуйста", "skill": "jokes.get"}
+{"text": "сделай напоминание послезавтра про оплатить коммуналку", "skill": "reminder.set"}
+{"text": "сколько сейчас на часах", "skill": "time.now"}
+{"text": "расскаж,и что случилось за сегодня", "skill": "news.get"}
+{"text": "какое сейчас время, срочно", "skill": "time.now"}
+{"text": "давай без музыки", "skill": "music.stop"}
+{"text": "мне нужно проснуться в 7:0", "skill": "alarm.set"}
+{"text": "набери девушке", "skill": "call.make"}
+{"text": "мне нужно проснуться в 9:15", "skill": "alarm.set"}
+{"text": "там дождь в самаре или нормально?", "skill": "weather.get"}
+{"text": "выключим узыку пожалуйста", "skill": "music.stop"}
+{"text": "можешь помочь азобраться", "skill": "system.help"}
+{"text": "завтра подними меня в :555", "skill": "alarm.set"}
+{"text": "завтра поднми меня в 7:00", "skill": "alarm.set"}
+{"text": "я боюсь забыть полить цветы, напомни завтра", "skill": "reminder.set"}
+{"text": "пожалуйста заглуши всё пожалуйста", "skill": "music.stop"}
+{"text": "позвони другу из москве пожалуйста", "skill": "call.make"}
+{"text": "пожалста мне надо помнить позвонить маме, напомни послезавтра", "skill": "reminder.set"}
+{"text": "пожалста расскаж,и что случилось за сегодня", "skill": "news.get"}
+{"text": "звони мужу", "skill": "call.make"}
+{"text": "мне надо помнить сделать бэкап, напомни через неделю, срочно", "skill": "reminder.set"}
+{"text": "напомни мне сделать бэкап через два часа", "skill": "reminder.set"}
+{"text": "будь дор таймер на 15 минут", "skill": "timer.set"}
+{"text": "сделай звонок сестре", "skill": "call.make"}
+{"text": "засеки три минутки", "skill": "timer.set"}
+{"text": "хочу что‑нибудь смшное", "skill": "jokes.get"}
+{"text": "мне унжно проснуться в 7:00", "skill": "alarm.set"}
+{"text": "сигнал в 6:45 поставь пожалуйста", "skill": "alarm.set"}
+{"text": "позвони другу из екатеринбурге", "skill": "call.make"}
+{"text": "есть и осадки на улице", "skill": "weather.get"}
+{"text": "новости по региону", "skill": "news.get"}
+{"text": "давай юмрку, срочно", "skill": "jokes.get"}
+{"text": "позвони бабушке пожалуйста", "skill": "call.make"}
+{"text": "будет ли снег у меня завтра", "skill": "weather.get"}
+{"text": "подскажи время", "skill": "time.now"}
+{"text": "мне бы время узнать", "skill": "time.now"}
+{"text": "что там по погоде в стране но именно в нвостях пожалуйста", "skill": "news.get"}
+{"text": "какое сейчас время пожалуйста", "skill": "time.now"}
+{"text": "что ты умеешь, пожалуйста пожалуйста", "skill": "system.help"}
+{"text": "через 10 минут напомни", "skill": "timer.set"}
+{"text": "вруби что‑нибудь ритмичное", "skill": "music.play"}
+{"text": "запусти обратный отсчет на 3 минуты", "skill": "timer.set"}
+{"text": "включи дорогу музыку в стиле рок", "skill": "music.play"}
+{"text": "не дай мне забыть оплатить коммуналку сегодня вечером", "skill": "reminder.set"}
+{"text": "пожалуйста заглуши всё", "skill": "music.stop"}
+{"text": "хочу что‑нибудь смешное", "skill": "jokes.get"}
+{"text": "пошути про про работу", "skill": "jokes.get"}
+{"text": "напомни мне прснуться в 6:45", "skill": "alarm.set"}
+{"text": "который час", "skill": "time.now"}
+{"text": "дай прикол пожалуйста", "skill": "jokes.get"}
+{"text": "напомни мне проснуться в 7:00", "skill": "alarm.set"}
+{"text": "пожалста будильник завтра на 5:55", "skill": "alarm.set"}
+{"text": "таймер три миутки", "skill": "timer.set"}
+{"text": "давай некдот пожалуйста", "skill": "jokes.get"}
+{"text": "пожалуйста выключи музыку, срочно", "skill": "music.stop"}
+{"text": "что по нвоостям про футбол, срочно", "skill": "news.get"}
+{"text": "сводка новостей на сейчас", "skill": "news.get"}
+{"text": "позвони другу из москве", "skill": "call.make"}
+{"text": "поставь будильник на 9:15", "skill": "alarm.set"}
+{"text": "есть ли осадки у меня", "skill": "weather.get"}
+{"text": "мне таймер на 90 секунд для готовки", "skill": "timer.set"}
+{"text": "таймер минутку", "skill": "timer.set"}
+{"text": "напомни мне проснуться в 10:00", "skill": "alarm.set"}
+{"text": "позвони на номер +79031234567", "skill": "call.make"}
+{"text": "мне надо помнить забрать сына из сада, напомни через два часа", "skill": "reminder.set"}
+{"text": "раскажи шутку", "skill": "jokes.get"}
+{"text": "напомни мне купить хлеб через час", "skill": "reminder.set"}
+{"text": "поставь таймер а 90 секунд", "skill": "timer.set"}
+{"text": "пошути про про работу", "skill": "jokes.get"}
+{"text": "заглуши всё", "skill": "music.stop"}
+{"text": "вруби чилл", "skill": "music.play"}
+{"text": "во сколько сейчас", "skill": "time.now"}
+{"text": "заверши воспроизведение", "skill": "music.stop"}
+{"text": "позвони мне парню сейчас", "skill": "call.make"}
+{"text": "сильно ли ветер в москве", "skill": "weather.get"}
+{"text": "пожалста мне нужно проснуться в 10:00", "skill": "alarm.set"}
+{"text": "обнви ленту новостей пожалуйста", "skill": "news.get"}
+{"text": "что с погодой в екатеринбурге на завтра утром", "skill": "weather.get"}
+{"text": "давай юмрку", "skill": "jokes.get"}
+{"text": "что по времени пожалуйста", "skill": "time.now"}
+{"text": "объясни, как с тобой раотать, срочно", "skill": "system.help"}
+{"text": "обнови ленту новостей", "skill": "news.get"}
+{"text": "сколько сейчас на часах, срочно", "skill": "time.now"}
+{"text": "мне нужна помощь, пожалйуста", "skill": "system.help"}
+{"text": "мне нужна помощь пожалуйста", "skill": "system.help"}
+{"text": "пожалста таймер минутку", "skill": "timer.set"}
+{"text": "что говорят по телеку", "skill": "news.get"}
+{"text": "давай юморку", "skill": "jokes.get"}
+{"text": "сигнал в 8:00 псотавь", "skill": "alarm.set"}
+{"text": "дай прогноз погоды в оскве по часам", "skill": "weather.get"}
+{"text": "запусти последний альбом зверям", "skill": "music.play"}
+{"text": "будильник завтра на 7:00", "skill": "alarm.set"}
+{"text": "новости сеодня", "skill": "news.get"}
+{"text": "напомни мне позвонить маме в понедельник", "skill": "reminder.set"}
+{"text": "запусти обратный отсчет на 15 минут", "skill": "timer.set"}
+{"text": "хватит песен пожалуйста", "skill": "music.stop"}
+{"text": "дай прогноз погоды в самаре по часам", "skill": "weather.get"}
+{"text": "а дальше что мне делать, пожалуйста", "skill": "system.help"}
+{"text": "пожалста позвони мне паню сейчас", "skill": "call.make"}
+{"text": "позвони мне парню сейчас", "skill": "call.make"}
+{"text": "кидай мечик словами", "skill": "jokes.get"}
+{"text": "будет ли снег в новосибе завтра", "skill": "weather.get"}
+{"text": "сводка новосетй на сейчас", "skill": "news.get"}
+{"text": "мне надо помнить зарбать сына из сада, напомни через неделю", "skill": "reminder.set"}
+{"text": "подскажи время, срочно", "skill": "time.now"}
+{"text": "хочу трек", "skill": "music.play"}
+{"text": "разбуди меня в 10:00", "skill": "alarm.set"}
+{"text": "поставь таймер а 90 секунд", "skill": "timer.set"}
+{"text": "через пять минут напомни пожалуйста", "skill": "timer.set"}
+{"text": "мне таймер на минутку для готовки", "skill": "timer.set"}
+{"text": "что по времени, срочно", "skill": "time.now"}
+{"text": "звони лучшему другу", "skill": "call.make"}
+{"text": "пожалста позвони на номер +79031234567", "skill": "call.make"}
+{"text": "сдела напоминание вечером про полить цветы", "skill": "reminder.set"}
+{"text": "не забудь сказать мне про купить хлеб черзе час", "skill": "reminder.set"}
+{"text": "включи мне что‑нибудь спокойное для работы", "skill": "music.play"}
+{"text": "свяжи меня с сестре", "skill": "call.make"}
+{"text": "позвони мне парню сейчас, срочно", "skill": "call.make"}
+{"text": "заглуши всё, срочно", "skill": "music.stop"}
+{"text": "песня для сна ключи", "skill": "music.play"}
+{"text": "сигнал в 7:00 поставь", "skill": "alarm.set"}
+{"text": "пошути про про начальника пожалуйста", "skill": "jokes.get"}
+{"text": "что можно у тебя спросить", "skill": "system.help"}
+{"text": "а дальше что мне делать, срочно", "skill": "system.help"}
+{"text": "новости сегодня", "skill": "news.get"}
+{"text": "хочу послушать басте", "skill": "music.play"}
+{"text": "включи мне техно для работы", "skill": "music.play"}
+{"text": "будет ли сне гв екатеринбурге завтра", "skill": "weather.get"}
+{"text": "звони лучшему другу", "skill": "call.make"}
+{"text": "будилник завта на 6:45", "skill": "alarm.set"}
+{"text": "будильник завтра на 5:55", "skill": "alarm.set"}
+{"text": "пожалста хочу что‑нибудь смшное", "skill": "jokes.get"}
+{"text": "как одеться в краснодаре, не замерзну?", "skill": "weather.get"}
+{"text": "пожалуйста выключи музыку, срочно", "skill": "music.stop"}
+{"text": "кидай мечмик словами", "skill": "jokes.get"}
+{"text": "пожалста стоп музыка", "skill": "music.stop"}
+{"text": "будет ли снег в москве завтра", "skill": "weather.get"}
+{"text": "дай подсказку, чем ты полезен", "skill": "system.help"}
+{"text": "поставь будик ан 10:00", "skill": "alarm.set"}
+{"text": "посмотри погоду в краснодаре на сегодня", "skill": "weather.get"}
+{"text": "найди песню фокус", "skill": "music.play"}
+{"text": "позвони алёне", "skill": "call.make"}
+{"text": "который час", "skill": "time.now"}
+{"text": "расскажи последние новости", "skill": "news.get"}
+{"text": "что там по огоде на улице", "skill": "weather.get"}
+{"text": "разбуди в 10:00 утра", "skill": "alarm.set"}
+{"text": "какая етмпература в питере", "skill": "weather.get"}
+{"text": "обнови ленту новостей", "skill": "news.get"}
+{"text": "сколько градусов в новосибе", "skill": "weather.get"}
+{"text": "расскажи шутку", "skill": "jokes.get"}
+{"text": "посатвь будик на 6:45", "skill": "alarm.set"}
+{"text": "подскажи, что ты делаешь", "skill": "system.help"}
+{"text": "запусти обратный отсчет на три минутки", "skill": "timer.set"}
+{"text": "давай юмрку пожалуйста", "skill": "jokes.get"}
+{"text": "пожалуйста выключи музыку", "skill": "music.stop"}
+{"text": "давай анекдот, срочно", "skill": "jokes.get"}
+{"text": "мне нужна помощь пожалуйста", "skill": "system.help"}
+{"text": "а дальше что мне делать", "skill": "system.help"}
+{"text": "останови трек", "skill": "music.stop"}
+{"text": "влкючи мне рэп для работы", "skill": "music.play"}
+{"text": "включи саундтрек из спокойствие", "skill": "music.play"}
+{"text": "ачсы покажи", "skill": "time.now"}
+{"text": "пожалуйста заглуши всё", "skill": "music.stop"}
+{"text": "включи дорогу музыку в стиле что‑нибуд спокойное", "skill": "music.play"}
+{"text": "есть ли осади в новосибе", "skill": "weather.get"}
+{"text": "будильник завтра на 10:00", "skill": "alarm.set"}
+{"text": "выключим узыку", "skill": "music.stop"}
+{"text": "дайприкол", "skill": "jokes.get"}
+{"text": "напомни мне сделать бэкап через два часа", "skill": "reminder.set"}
+{"text": "напомни мне оплатить коммуналку сегодня вечером", "skill": "reminder.set"}
+{"text": "включи дорогу музыку в стиле рэп", "skill": "music.play"}
+{"text": "какое сейчас время", "skill": "time.now"}
+{"text": "выключим узыку пожалуйста", "skill": "music.stop"}
+{"text": "как одеться у меня, не замерзну?", "skill": "weather.get"}
+{"text": "давай что‑нибудь повеселее", "skill": "music.play"}
+{"text": "пожалста мне надо помнить сделать бэкап, напомни через неделю", "skill": "reminder.set"}
+{"text": "сделай звонок маме", "skill": "call.make"}
+{"text": "поставь что‑нибудь из morgenstern", "skill": "music.play"}
+{"text": "поставь будильник на 5:55", "skill": "alarm.set"}
+{"text": "дай пркиол", "skill": "jokes.get"}
+{"text": "скажи время пожалуйста", "skill": "time.now"}
+{"text": "пожалста сколько вемени", "skill": "time.now"}
+{"text": "через пять минут напомни пожалуйста", "skill": "timer.set"}
+{"text": "во сколько сейчас", "skill": "time.now"}
+{"text": "новости по москве", "skill": "news.get"}
+{"text": "чт оговорят по телеку пожалуйста", "skill": "news.get"}
+{"text": "разбуди меня в 6:45 пожалуйста", "skill": "alarm.set"}
+{"text": "что по времени пожалуйста", "skill": "time.now"}
+{"text": "холодно сейчас в москв?", "skill": "weather.get"}
+{"text": "будет грозав  санкт-петербурге вечером", "skill": "weather.get"}
+{"text": "выруби это пожалуйста", "skill": "music.stop"}
+{"text": "послезавтра скажи мне, что надо оплатить коммуналку", "skill": "reminder.set"}
+{"text": "послезавтра скажи мне, что надо написать боссу", "skill": "reminder.set"}
+{"text": "завтра подними еня в 9:15", "skill": "alarm.set"}
+{"text": "свяжи меня с жене", "skill": "call.make"}
+{"text": "пожалста расскаж,и что случилось за сегодня", "skill": "news.get"}
+{"text": "мне выходить в куртке или без", "skill": "weather.get"}
+{"text": "что ты умеешь пожалуйста", "skill": "system.help"}
+{"text": "позвони другу из москве", "skill": "call.make"}
+{"text": "пожалста что ты умеешь", "skill": "system.help"}
+{"text": "будь добр таймер на 90 секунд", "skill": "timer.set"}
+{"text": "отметь, что надо сделать бэкап завтра", "skill": "reminder.set"}
+{"text": "сводка новостей на сейчас", "skill": "news.get"}
+{"text": "сделай потише и останови", "skill": "music.stop"}
+{"text": "вруби хас", "skill": "music.play"}
+{"text": "через 2 часа напомни", "skill": "timer.set"}
+{"text": "квлючи музыку", "skill": "music.play"}
+{"text": "давай анекдот пожалуйста", "skill": "jokes.get"}
+{"text": "сколько сейчас на часах", "skill": "time.now"}
+{"text": "пожалста объясни, как с тобой раотать", "skill": "system.help"}
+{"text": "узнай погоду в москве на выходные", "skill": "weather.get"}
+{"text": "дай новости по погоде в стране", "skill": "news.get"}
+{"text": "погодав москве", "skill": "weather.get"}
+{"text": "не забудь сказать мне про написать боссу сегодня вечером", "skill": "reminder.set"}
+{"text": "пожалста дай прикол", "skill": "jokes.get"}
+{"text": "включи мне чилл для работы", "skill": "music.play"}
+{"text": "какие у тебя функции", "skill": "system.help"}
+{"text": "скажи время", "skill": "time.now"}
+{"text": "запусти обратный отсчет на 10 минут", "skill": "timer.set"}
+{"text": "запусти обратный отсчет на 90 секунд", "skill": "timer.set"}
+{"text": "погода в новосибе", "skill": "weather.get"}
+{"text": "расскажи, что случилось за сегодня", "skill": "news.get"}
+{"text": "подержка нужна", "skill": "system.help"}
+{"text": "опсмотри погоду в сочи на сегодня", "skill": "weather.get"}
+{"text": "новости п орегиону", "skill": "news.get"}
+{"text": "хватит песен", "skill": "music.stop"}
+{"text": "запусти обратный отсчет на 15 минут, срочно", "skill": "timer.set"}
+{"text": "подскажи время", "skill": "time.now"}
+{"text": "какие новости", "skill": "news.get"}
+{"text": "расскажи последние новости", "skill": "news.get"}
+{"text": "что ты умеешь, пожалуйста, срочно", "skill": "system.help"}
+{"text": "сделай звонок максиму пожалуйста", "skill": "call.make"}
+{"text": "пожалста скажи время", "skill": "time.now"}
+{"text": "через две минутки напомни", "skill": "timer.set"}
+{"text": "помоги", "skill": "system.help"}
+{"text": "давай юморку пожалуйста", "skill": "jokes.get"}
+{"text": "не забудь сказать мне про забрать сына из сада через неделю", "skill": "reminder.set"}
+{"text": "на улице холодно или нет", "skill": "weather.get"}
+{"text": "завтра подними меня в 5:55", "skill": "alarm.set"}
+{"text": "разбуди в 5:55 утра", "skill": "alarm.set"}
+{"text": "не забудь сказать мне про написать боссу сегодня вечером", "skill": "reminder.set"}
+{"text": "мне нужна помощь", "skill": "system.help"}
+{"text": "поставь что‑нибудь из кино", "skill": "music.play"}
+{"text": "пожалуйста хватит играть", "skill": "music.stop"}
+{"text": "я боюсь забыть полить цветы, напомни через два часа", "skill": "reminder.set"}
+{"text": "обнви ленту новостей", "skill": "news.get"}
+{"text": "какая погода в питере", "skill": "weather.get"}
+{"text": "сделай звонок сестре", "skill": "call.make"}
+{"text": "как одеться в сочи, не замерзну?", "skill": "weather.get"}
+{"text": "хватит песен", "skill": "music.stop"}
+{"text": "запуст последний альбом morgenstern", "skill": "music.play"}
+{"text": "сделай звонок максиму", "skill": "call.make"}
+{"text": "дай подсказку, чем ты полезен пожалуйста", "skill": "system.help"}
+{"text": "пожалста а дальше что мне делать, пожалуйста", "skill": "system.help"}
+{"text": "пожалста сделай звонок максиму", "skill": "call.make"}
+{"text": "мне нужен прогноз погоды за окном", "skill": "weather.get"}
+{"text": "сигнал в 10:00 потавь", "skill": "alarm.set"}
+{"text": "позвони бабушке", "skill": "call.make"}
+{"text": "расскажи шутку", "skill": "jokes.get"}
+{"text": "что там по погоде в стране но именно в новостях", "skill": "news.get"}
+{"text": "пожалста что можно у тебя спросить", "skill": "system.help"}
+{"text": "вруби чо‑нибудь", "skill": "music.play"}
+{"text": "обнви ленту новостей", "skill": "news.get"}
+{"text": "кидай мемчик словами", "skill": "jokes.get"}
+{"text": "мне надо помнить сделать бэкап, напомни через неделю", "skill": "reminder.set"}
+{"text": "пожалста не дай мне забыть оплатить коммуналку сегодня вечером", "skill": "reminder.set"}
+{"text": "песня для сна включи", "skill": "music.play"}
+{"text": "давай без музыки", "skill": "music.stop"}
+{"text": "мне нужа помощь", "skill": "system.help"}
+{"text": "напомни мне проснуться в 8:00", "skill": "alarm.set"}
+{"text": "что там нового в мире", "skill": "news.get"}
+{"text": "пожалуйста хватит играть", "skill": "music.stop"}
+{"text": "включи плейлист фокус", "skill": "music.play"}
+{"text": "засеки полчаса", "skill": "timer.set"}
+{"text": "пошуи про про котиков", "skill": "jokes.get"}
+{"text": "есть что‑нибудь свеженькое и новостей", "skill": "news.get"}
+{"text": "мне нужно проснуться в 7:0", "skill": "alarm.set"}
+{"text": "таймер две минутки", "skill": "timer.set"}
+{"text": "будь обр таймер на пять минут", "skill": "timer.set"}
+{"text": "наберии маме", "skill": "call.make"}
+{"text": "поддержка нужна", "skill": "system.help"}
+{"text": "через три минутки напомни", "skill": "timer.set"}
+{"text": "разбуди меня в 9:15", "skill": "alarm.set"}
+{"text": "будь добр таймер на час, срочно", "skill": "timer.set"}
+{"text": "пожалста таймер 10 имнут", "skill": "timer.set"}
+{"text": "через час скажи мне, что надо оплатить коммуналку, срочно", "skill": "reminder.set"}
+{"text": "а дальше что мне делать, пожалуйста", "skill": "system.help"}
+{"text": "позвони мне кате сейчас", "skill": "call.make"}
+{"text": "сколько сейчас на часах", "skill": "time.now"}
+{"text": "пожалста дайприкол", "skill": "jokes.get"}
+{"text": "пошути про про начальника", "skill": "jokes.get"}
+{"text": "позвони мне сене сейчас", "skill": "call.make"}
+{"text": "пожалста позвони на номер +79031234567", "skill": "call.make"}
+{"text": "отметь, что надо сделать бэкап через два часа", "skill": "reminder.set"}
+{"text": "какая погода уменя", "skill": "weather.get"}
+{"text": "разбуди в 10:00 утра", "skill": "alarm.set"}
+{"text": "поддержка нужна", "skill": "system.help"}
+{"text": "будет гроза в нижнем новгороде вечером", "skill": "weather.get"}
+{"text": "сделай потише и останови, срочно", "skill": "music.stop"}
+{"text": "сколько вемени пожалуйста", "skill": "time.now"}
+{"text": "пожалста сделай звонок маме", "skill": "call.make"}
+{"text": "сколько сейчас на часах, срочно", "skill": "time.now"}
+{"text": "пошуи про про котиков, срочно", "skill": "jokes.get"}
+{"text": "сколько вемени, срочно", "skill": "time.now"}
+{"text": "сколько сейчас на часах", "skill": "time.now"}
+{"text": "отметь, что надо сделать бэкап сегодня вечером", "skill": "reminder.set"}
+{"text": "дай прогноз погоды у меня по часам", "skill": "weather.get"}
+{"text": "пожалста поставь будильник на 7:30", "skill": "alarm.set"}
+{"text": "пожалста пожалуйста заверши воспроизведнеие", "skill": "music.stop"}
+{"text": "хочу что‑нибудь смшное пожалуйста", "skill": "jokes.get"}
+{"text": "разбуди в 5:55 утра", "skill": "alarm.set"}
+{"text": "на улице сейчс жара или как", "skill": "weather.get"}
+{"text": "пожалста сделай звонок деду", "skill": "call.make"}
+{"text": "сколько сейчас на часах, срочно", "skill": "time.now"}
+{"text": "что там нового вм ире", "skill": "news.get"}
+{"text": "запусти последний альбом муми троллю", "skill": "music.play"}
+{"text": "скажи что‑нибудь ржачное, срочно", "skill": "jokes.get"}
+{"text": "дай новости про технологии", "skill": "news.get"}
+{"text": "включи плейист утро", "skill": "music.play"}
+{"text": "запусти обратный отсчет на 15 минут", "skill": "timer.set"}
+{"text": "хватит песен", "skill": "music.stop"}
+{"text": "через три минутки напомни", "skill": "timer.set"}
+{"text": "поставь таймер на минутку", "skill": "timer.set"}
+{"text": "давай некдот", "skill": "jokes.get"}
+{"text": "сводка новосетй на сейчас", "skill": "news.get"}
+{"text": "музыку выключи полностью", "skill": "music.stop"}
+{"text": "разбуди в 7:30 утра", "skill": "alarm.set"}
+{"text": "будь обр таймер на пять минут, срочно", "skill": "timer.set"}
+{"text": "мне нужна помощь, пожалйуста", "skill": "system.help"}
+{"text": "а дальше что мне делать, срочно", "skill": "system.help"}
+{"text": "давай что‑нибудьп отише", "skill": "music.play"}
+{"text": "сколько вемени, срочно", "skill": "time.now"}
+{"text": "запусти последний лаьбом максу коржу", "skill": "music.play"}
+{"text": "пожалста таймер 15 минут", "skill": "timer.set"}
+{"text": "какой час", "skill": "time.now"}
+{"text": "пожалста помоги", "skill": "system.help"}
+{"text": "пожалста объясни, как с тобой раотать", "skill": "system.help"}
+{"text": "что по нвоостям про футбол", "skill": "news.get"}
+{"text": "кидай мемчик словами пожалуйста", "skill": "jokes.get"}
+{"text": "сделай напоминание через час про полить цветы", "skill": "reminder.set"}
+{"text": "чт оговорят по телеку", "skill": "news.get"}
+{"text": "давай юморку", "skill": "jokes.get"}
+{"text": "который час пожалуйста", "skill": "time.now"}
+{"text": "включи дорогу музыку в стиле чилл", "skill": "music.play"}
+{"text": "там дождь в новосибе или нормально?", "skill": "weather.get"}
+{"text": "есть что‑нибудь свеженькое из новостей пожалуйста", "skill": "news.get"}
+{"text": "сделай стоп", "skill": "music.stop"}
+{"text": "хватит песен, срочно", "skill": "music.stop"}
+{"text": "будь добр таймер на две минутки", "skill": "timer.set"}
+{"text": "позвони на номер +79998887766", "skill": "call.make"}
+{"text": "расскажи последние новости", "skill": "news.get"}
+{"text": "расскажи, что случилось за сегодня", "skill": "news.get"}
+{"text": "мне надо помнить позвонить маме, напомни послезавтра", "skill": "reminder.set"}
+{"text": "поставь будик на 9:15", "skill": "alarm.set"}
+{"text": "пожалста мне бы время узнать", "skill": "time.now"}
+{"text": "засеки 90 секунд", "skill": "timer.set"}
+{"text": "мне бы время узнать", "skill": "time.now"}
+{"text": "не забудь сказать мне про купить хлеб через два часа", "skill": "reminder.set"}
+{"text": "можешь помочь азобраться", "skill": "system.help"}
+{"text": "расскажи, то случилось за сегодня", "skill": "news.get"}
+{"text": "через 2 часа напомни", "skill": "timer.set"}
+{"text": "вруби хаус", "skill": "music.play"}
+{"text": "вруби что‑нибудь споокйное", "skill": "music.play"}
+{"text": "тчо говорят по телеку", "skill": "news.get"}
+{"text": "что по новостям про крипту", "skill": "news.get"}
+{"text": "сколько вемени", "skill": "time.now"}
+{"text": "скажи что‑нибудь ржачное", "skill": "jokes.get"}
+{"text": "поддержка нужна", "skill": "system.help"}
+{"text": "мне таймер на пять минут для готовки", "skill": "timer.set"}
+{"text": "обнви ленту новостей", "skill": "news.get"}
+{"text": "включи музыку", "skill": "music.play"}
+{"text": "через час скажи мне, что надо оплатить коммуналку", "skill": "reminder.set"}
