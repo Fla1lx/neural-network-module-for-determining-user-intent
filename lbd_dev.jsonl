@@ -233,3 +233,23 @@
 {"skill": "alarm.set", "text": "скажи поставь будильник на {time} пожалуйста!"}
 {"skill": "music.play", "text": "подскажи поставь музыку {artist} сегодня пожалуйста."}
 {"skill": "weather.get", "text": "Эй ветер в {city} пж?"}
+{"skill": "weather.get", "text": "Какой сейчас прогноз"}
+{"skill": "timer.start", "text": "Мне нужен таймер"}
+{"skill": "alarm.set", "text": "Установи мне будильник"}
+{"skill": "reminder.add", "text": "Сделай напоминание"}
+{"skill": "music.play", "text": "Включи что-нибудь"}
+{"skill": "time.now", "text": "Время"}
+{"skill": "math.calculate", "text": "Посчитай"}
+{"skill": "system.help", "text": "Как узнать погоду?"}
+{"skill": "system.help", "text": "Хочу посмотреть, что ты умеешь про музыку"}
+{"skill": "system.help", "text": "Объясни, как работает таймер"}
+{"skill": "system.help", "text": "Есть ли возможность поставить будильник?"}
+{"skill": "system.help", "text": "Спроси меня про напоминания"}
+{"skill": "jokes.tell", "text": "Мне нужна шутка для друга"}
+{"skill": "news.get", "text": "Расскажи, что случилось сегодня"}
+{"skill": "time.now", "text": "Что показывают часы?"}
+{"skill": "weather.get", "text": "Есть ли инфа по осадкам в {city}?"}
+{"skill": "alarm.set", "text": "Мне нужно, чтобы меня разбудили в {time}"}
+{"skill": "timer.start", "text": "Засечь {duration} мне, пожалуйста"}
+{"skill": "music.stop", "text": "Стоп музыку, хватит"}
+{"skill": "math.calculate", "text": "какой ответ у {number} минус {number}?"}
