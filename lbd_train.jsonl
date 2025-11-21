@@ -1325,3 +1325,90 @@
 {"skill": "reminder.add", "text": "подскажи напомни вечером оплатить счета пж"}
 {"skill": "timer.start", "text": "привет таймер мне на {duration} на всякий"}
 {"skill": "music.play", "text": "включи {song}"}
+{"skill": "weather.get", "text": "Что с погодой завтра"}
+{"skill": "weather.get", "text": "Привет будет ли снег"}
+{"skill": "weather.get", "text": "Слушай прогноз на всякий"}
+{"skill": "weather.get", "text": "Погода"}
+{"skill": "weather.get", "text": "Покажи погоду"}
+{"skill": "timer.start", "text": "Запусти таймер на всякий!"}
+{"skill": "timer.start", "text": "Включи таймер"}
+{"skill": "timer.start", "text": "Таймер"}
+{"skill": "alarm.set", "text": "Слушай сделай будильник"}
+{"skill": "alarm.set", "text": "Поставь будильник"}
+{"skill": "alarm.set", "text": "Будильник"}
+{"skill": "reminder.add", "text": "Напомни забрать посылку"}
+{"skill": "music.play", "text": "подскажи поставь мне?"}
+{"skill": "music.play", "text": "Включи плейлист"}
+{"skill": "music.play", "text": "Запусти музыку"}
+{"skill": "news.get", "text": "Последние новости"}
+{"skill": "weather.get", "text": "Давай о погоде поговорим"}
+{"skill": "weather.get", "text": "Будет ли тепло?"}
+{"skill": "timer.start", "text": "Запусти обратный отсчет"}
+{"skill": "timer.start", "text": "Мне нужна засечка времени"}
+{"skill": "alarm.set", "text": "Сделай аларм"}
+{"skill": "alarm.set", "text": "Разбуди меня"}
+{"skill": "reminder.add", "text": "Установи напоминание"}
+{"skill": "reminder.add", "text": "Нужно не забыть"}
+{"skill": "music.play", "text": "Включи что-нибудь веселенькое"}
+{"skill": "music.play", "text": "Запусти музыку"}
+{"skill": "music.stop", "text": "Можешь остановить"}
+{"skill": "music.stop", "text": "Сделай тише"}
+{"skill": "time.now", "text": "Который час сейчас"}
+{"skill": "time.now", "text": "Скажи сколько времени"}
+{"skill": "news.get", "text": "Дай последние сводки новостей"}
+{"skill": "jokes.tell", "text": "Хочу анекдот"}
+{"skill": "jokes.tell", "text": "Расскажи прикол"}
+{"skill": "math.calculate", "text": "Посчитай"}
+{"skill": "math.calculate", "text": "Какой результат"}
+{"skill": "weather.get", "text": "Как там на улице по ощущениям в {city}?"}
+{"skill": "weather.get", "text": "Какая температура в {city} на {date}?"}
+{"skill": "alarm.set", "text": "Нужно встать в {time}. Сделай мне будильник."}
+{"skill": "alarm.set", "text": "Поставь алоарм на {time} с мелодией 'Рок'. "}
+{"skill": "timer.start", "text": "Слушай, а ну-ка засеки {duration} на всякий."}
+{"skill": "reminder.add", "text": "Запомни, что мне надо сделать: {note} в {time}."}
+{"skill": "reminder.add", "text": "Надо, чтобы ты напомнил про {note} сегодня."}
+{"skill": "music.play", "text": "Поставь {song} исполнителя {artist}, это топ!"}
+{"skill": "music.play", "text": "Включи трек {song} сейчас."}
+{"skill": "music.stop", "text": "Пожалуйста, хватит, останови музыку."}
+{"skill": "news.get", "text": "Что новенького в мире, давай сводку."}
+{"skill": "math.calculate", "text": "Мне надо найти корень {number}"}
+{"skill": "math.calculate", "text": "Пожалуйста, возведи {number} в степень {number}"}
+{"skill": "system.help", "text": "Как мне найти погоду?"}
+{"skill": "system.help", "text": "Можно ли поставить будильник?"}
+{"skill": "system.help", "text": "Что ты умеешь насчет напоминаний?"}
+{"skill": "system.help", "text": "Какие команды для музыки есть?"}
+{"skill": "system.help", "text": "Скажи, что ты можешь мне посчитать?"}
+{"skill": "system.help", "text": "Я хочу запустить таймер, что сказать?"}
+{"skill": "system.help", "text": "Как включать музыку?"}
+{"skill": "system.help", "text": "Что такое будильник?"}
+{"skill": "system.help", "text": "Какие новости ты знаешь?"}
+{"skill": "weather.get", "text": "Чё там по погоде?"}
+{"skill": "time.now", "text": "Скажи время, плз"}
+{"skill": "jokes.tell", "text": "Давай угарнем, расскажи что-нибудь"}
+{"skill": "music.play", "text": "Поставь чё-нибудь из попсы"}
+{"skill": "music.play", "text": "Вруби {song}"}
+{"skill": "music.stop", "text": "Останови, надоело"}
+{"skill": "timer.start", "text": "Нужно засечь {duration}"}
+{"skill": "alarm.set", "text": "Сделай побудку на {time}"}
+{"skill": "news.get", "text": "Гони новости!"}
+{"skill": "system.help", "text": "Какие команды знаешь?"}
+{"skill": "weather.get", "text": "Завтра в {city} как погода?"}
+{"skill": "weather.get", "text": "Какой прогноз на {date} в {city}?"}
+{"skill": "timer.start", "text": "На {duration} запусти таймер"}
+{"skill": "timer.start", "text": "Запусти таймер"}
+{"skill": "alarm.set", "text": "Разбуди меня {time}"}
+{"skill": "alarm.set", "text": "Мне нужен будильник на {time}"}
+{"skill": "reminder.add", "text": "В {time} напомни про {note}"}
+{"skill": "reminder.add", "text": "Напомни, что надо {note}"}
+{"skill": "math.calculate", "text": "сколько будет {number} плюс {number}?"}
+{"skill": "math.calculate", "text": "Отними {number} от {number}"}
+{"skill": "time.now", "text": "Сколько времени на часах?"}
+{"skill": "time.now", "text": "Можешь сказать точное время"}
+{"skill": "timer.start", "text": "Поставь отсчет на {duration}"}
+{"skill": "reminder.add", "text": "Мне нужно, чтобы ты напомнил через {duration}"}
+{"skill": "alarm.set", "text": "Когда мне лучше поставить будильник?"}
+{"skill": "alarm.set", "text": "Будильник, чтобы проснуться в {time}"}
+{"skill": "music.play", "text": "Включи трек, который я люблю"}
+{"skill": "jokes.tell", "text": "Расскажи какой-нибудь прикол"}
+{"skill": "system.help", "text": "Какие скиллы у тебя есть?"}
+{"skill": "system.help", "text": "Научи меня ставить таймер"}
