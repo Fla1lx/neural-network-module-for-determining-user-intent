@@ -1,0 +1,2200 @@
+{"skill": "reminder.add", "text": "завтра утром напомни мне отправить отчёт начальнику"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "timer.start", "text": "поставь таймер на 208 секунд"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "weather.get", "text": "температура в Новосибирск на ближайшую неделю"}
+{"skill": "reminder.add", "text": "напомни через две недели оплатить коммуналку"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "news.get", "text": "новости спорта расскажи"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "jokes.tell", "text": "анекдот про студентов давай"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "reminder.add", "text": "поставь напоминание в семь вечера про полить цветы"}
+{"skill": "timer.start", "text": "поставь таймер на тридцать два секунду"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "reminder.add", "text": "сделай напоминание сегодня утром оплатить коммуналку"}
+{"skill": "music.play", "text": "включи радио по дороге в Москва"}
+{"skill": "system.help", "text": "расскажи, как работать с таймером"}
+{"skill": "music.play", "text": "поставь трек Bad Guy"}
+{"skill": "news.get", "text": "какие сейчас главные новости дня"}
+{"skill": "jokes.tell", "text": "анекдот про студентов давай"}
+{"skill": "alarm.set", "text": "мне нужно встать через полтора часа, поставь будильник"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "timer.start", "text": "поставь таймер на 139 час"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "alarm.set", "text": "мне нужно встать через двадцать минут, поставь будильник"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "jokes.tell", "text": "что‑нибудь смешное расскажи"}
+{"skill": "alarm.set", "text": "сделай будильник в начале десятого, пожалуйста"}
+{"skill": "weather.get", "text": "погода в Екатеринбург на ближайшую неделю"}
+{"skill": "timer.start", "text": "таймер 446 минуту"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "timer.start", "text": "поставь таймер на двадцать пять час"}
+{"skill": "reminder.add", "text": "напомни через две недели записаться к стоматологу"}
+{"skill": "reminder.add", "text": "напомни мне потом купить молоко"}
+{"skill": "timer.start", "text": "напомни через пять минут"}
+{"skill": "math.calculate", "text": "какой результат если 261 умножить на 422"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "music.play", "text": "включи что‑то новое из чартов"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "time.now", "text": "какое сейчас время суток"}
+{"skill": "math.calculate", "text": "какой результат если 214 разделить на 467"}
+{"skill": "math.calculate", "text": "мне нужно узнать 208 плюс 398"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Екатеринбург"}
+{"skill": "math.calculate", "text": "посчитай 99 умножить на 422"}
+{"skill": "math.calculate", "text": "вычисли 297 разделить на 167"}
+{"skill": "system.help", "text": "как узнать погоду через тебя"}
+{"skill": "timer.start", "text": "запусти таймер на 90 секунды"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "weather.get", "text": "какая погода сегодня в Казань по часам"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне сходить в зал"}
+{"skill": "jokes.tell", "text": "рассмеши меня"}
+{"skill": "alarm.set", "text": "подъём сегодня утром, поставь будильник"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "time.now", "text": "сколько времени на часах"}
+{"skill": "news.get", "text": "дай сводку новостей за сегодня"}
+{"skill": "music.play", "text": "врубим музыку погромче"}
+{"skill": "alarm.set", "text": "поставь будильник через восемь часов"}
+{"skill": "alarm.set", "text": "напомни мне проснуться в девять тридцать"}
+{"skill": "weather.get", "text": "температура в Краснодар послезавтра"}
+{"skill": "reminder.add", "text": "напомни мне потом заказать пиццу"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "system.help", "text": "покажи список команд"}
+{"skill": "reminder.add", "text": "напомни без пятнадцати девять сделать разминку"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "weather.get", "text": "погода в Самара на ближайшую неделю"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "timer.start", "text": "запусти таймер на 30 секунду"}
+{"skill": "timer.start", "text": "заведи таймер на тридцать два секунды"}
+{"skill": "news.get", "text": "дай сводку новостей за сегодня"}
+{"skill": "timer.start", "text": "запусти таймер на 27 секунд"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "news.get", "text": "дай короткий обзор новостей"}
+{"skill": "timer.start", "text": "запусти таймер на 153 минут"}
+{"skill": "reminder.add", "text": "не дай забыть полить цветы, напомни в семь вечера"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "jokes.tell", "text": "расскажи что‑нибудь смешное про программистов"}
+{"skill": "news.get", "text": "какие сейчас главные новости дня"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Сочи на завтра утром"}
+{"skill": "math.calculate", "text": "посчитай сто разделить на пять"}
+{"skill": "reminder.add", "text": "напомни в три часа ночи отправить отчёт начальнику"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "timer.start", "text": "мне нужен таймер на 317 часа"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "weather.get", "text": "будет ли холодно в Самара на завтра вечером"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "time.now", "text": "какое сейчас время суток"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "math.calculate", "text": "сколько будет 190 умножить на 198"}
+{"skill": "timer.start", "text": "заведи таймер на 45 секунду"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Москва"}
+{"skill": "news.get", "text": "новости спорта расскажи"}
+{"skill": "system.help", "text": "покажи список команд"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "music.play", "text": "включи песню Тает лёд"}
+{"skill": "jokes.tell", "text": "есть свежий анекдот?"}
+{"skill": "math.calculate", "text": "какой результат если 212 умножить на 24"}
+{"skill": "news.get", "text": "что нового в России"}
+{"skill": "system.help", "text": "что ты можешь делать с музыкой"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Казань сегодня"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "music.stop", "text": "выруби музыку"}
+{"skill": "reminder.add", "text": "напомни вечером выгулять собаку"}
+{"skill": "alarm.set", "text": "сделай будильник в полседьмого утра, пожалуйста"}
+{"skill": "timer.start", "text": "запусти таймер на 439 секунды"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "reminder.add", "text": "сделай напоминание ровно в семь пропылесосить квартиру"}
+{"skill": "system.help", "text": "как тебя использовать"}
+{"skill": "timer.start", "text": "заведи таймер на 278 минуты"}
+{"skill": "music.stop", "text": "приглуши музыку до нуля"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "reminder.add", "text": "напомни через две недели записаться к стоматологу"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "system.help", "text": "помощь"}
+{"skill": "alarm.set", "text": "будильник в три часа ночи"}
+{"skill": "music.play", "text": "включи что‑то новое из чартов"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне отправить отчёт начальнику"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Уфа"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "alarm.set", "text": "разбуди завтра через три часа"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "math.calculate", "text": "посчитай 244 минус 350"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Самара"}
+{"skill": "math.calculate", "text": "сколько будет 428 плюс 301"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Новосибирск сегодня"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "reminder.add", "text": "сделай напоминание: сходить в зал"}
+{"skill": "weather.get", "text": "погода в Москва на сегодня"}
+{"skill": "weather.get", "text": "как одеться в Самара завтра по погоде"}
+{"skill": "reminder.add", "text": "напомни в девять ноль ноль проверить почту"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "reminder.add", "text": "напомни вечером сдать проект в университет"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "reminder.add", "text": "не дай забыть записаться к стоматологу, напомни на выходных"}
+{"skill": "time.now", "text": "который час"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Краснодар на завтра утром"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "alarm.set", "text": "напомни мне проснуться через пять минут"}
+{"skill": "time.now", "text": "который час"}
+{"skill": "reminder.add", "text": "сделай напоминание в половину шестого вечера заказать пиццу"}
+{"skill": "math.calculate", "text": "мне нужно узнать 191 умножить на 418"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "timer.start", "text": "засеки двадцать минуту"}
+{"skill": "timer.start", "text": "мне нужен таймер на 215 минут"}
+{"skill": "system.help", "text": "что я могу у тебя спросить"}
+{"skill": "reminder.add", "text": "напомни через две недели купить молоко"}
+{"skill": "timer.start", "text": "напомни через 305 час"}
+{"skill": "news.get", "text": "что нового в мире"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 212 умножить на 309 в уме"}
+{"skill": "system.help", "text": "что ты умеешь"}
+{"skill": "timer.start", "text": "напомни через 197 минуты"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "timer.start", "text": "напомни через 287 секунды"}
+{"skill": "alarm.set", "text": "сделай будильник в семь вечера, пожалуйста"}
+{"skill": "system.help", "text": "расскажи о своих возможностях"}
+{"skill": "timer.start", "text": "поставь таймер на 460 минуту"}
+{"skill": "jokes.tell", "text": "расскажи что‑нибудь смешное про программистов"}
+{"skill": "jokes.tell", "text": "расскажи что‑нибудь смешное про программистов"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 66 умножить на 351 в уме"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "weather.get", "text": "какая погода сегодня в Питер тепло ли будет"}
+{"skill": "time.now", "text": "сколько времени в Москве"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "timer.start", "text": "напомни через 300 секунду"}
+{"skill": "music.play", "text": "включи русский рэп"}
+{"skill": "timer.start", "text": "мне нужен таймер на 272 минут"}
+{"skill": "time.now", "text": "сколько времени на часах"}
+{"skill": "music.play", "text": "включи что‑нибудь романтичное"}
+{"skill": "alarm.set", "text": "заведи будильник через пять минут"}
+{"skill": "jokes.tell", "text": "ещё один анекдот"}
+{"skill": "weather.get", "text": "как одеться в Питер на завтра утром по погоде"}
+{"skill": "weather.get", "text": "будет ли холодно в Новосибирск завтра"}
+{"skill": "system.help", "text": "как тебя использовать"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "alarm.set", "text": "будильник через сорок пять минут"}
+{"skill": "reminder.add", "text": "поставь напоминание через двадцать минут про сдать проект в университет"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "timer.start", "text": "засеки пятнадцать часа"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "timer.start", "text": "мне нужен таймер на 130 час"}
+{"skill": "math.calculate", "text": "вычисли 134 умножить на 80"}
+{"skill": "math.calculate", "text": "посчитай 355 минус 297"}
+{"skill": "reminder.add", "text": "напомни мне потом отправить отчёт начальнику"}
+{"skill": "alarm.set", "text": "разбуди завтра через три часа"}
+{"skill": "reminder.add", "text": "сделай напоминание: сделать домашку по математике"}
+{"skill": "music.play", "text": "включи песню Звезда по имени Солнце"}
+{"skill": "jokes.tell", "text": "давай анекдот"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "reminder.add", "text": "не дай забыть пропылесосить квартиру, напомни в шесть утра"}
+{"skill": "news.get", "text": "какие последние новости"}
+{"skill": "reminder.add", "text": "напомни вечером проверить почту"}
+{"skill": "system.help", "text": "что ты можешь делать с музыкой"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "timer.start", "text": "таймер 404 секунд"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "math.calculate", "text": "посчитай 19 минус 185"}
+{"skill": "system.help", "text": "что ты можешь делать с музыкой"}
+{"skill": "weather.get", "text": "температура в Новосибирск на ближайшую неделю"}
+{"skill": "news.get", "text": "последние новости про экономику"}
+{"skill": "reminder.add", "text": "напомни через восемь часов купить молоко"}
+{"skill": "weather.get", "text": "что по погоде в Казань на завтра вечером"}
+{"skill": "timer.start", "text": "таймер 402 минуту"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "reminder.add", "text": "напомни мне потом сдать проект в университет"}
+{"skill": "system.help", "text": "расскажи, как работать с таймером"}
+{"skill": "news.get", "text": "последние новости про экономику"}
+{"skill": "time.now", "text": "сколько времени в Москве"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "weather.get", "text": "температура в Питер на завтра утром"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "alarm.set", "text": "разбуди завтра в половину восьмого"}
+{"skill": "alarm.set", "text": "сделай будильник через час, пожалуйста"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "reminder.add", "text": "мне нужно отправить отчёт начальнику, напомни мне в половину восьмого"}
+{"skill": "system.help", "text": "что я могу у тебя спросить"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "weather.get", "text": "какая погода на выходных в Самара с температурой"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "news.get", "text": "дай сводку новостей за сегодня"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне пропылесосить квартиру"}
+{"skill": "alarm.set", "text": "разбуди завтра через сорок пять минут"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "math.calculate", "text": "какой результат если 328 разделить на 356"}
+{"skill": "math.calculate", "text": "мне нужно узнать 290 умножить на 232"}
+{"skill": "alarm.set", "text": "будильник в понедельник утром"}
+{"skill": "timer.start", "text": "засеки восемьдесят девять секунд"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "alarm.set", "text": "мне нужно встать через три часа, поставь будильник"}
+{"skill": "reminder.add", "text": "через час напомни пропылесосить квартиру"}
+{"skill": "alarm.set", "text": "подъём через две минуты, поставь будильник"}
+{"skill": "reminder.add", "text": "поставь напоминание завтра утром про сходить в зал"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "timer.start", "text": "напомни через пятьдесят два час"}
+{"skill": "alarm.set", "text": "мне нужно встать в шесть утра, поставь будильник"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "weather.get", "text": "будет ли холодно в Екатеринбург завтра"}
+{"skill": "alarm.set", "text": "заведи будильник в начале седьмого"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "weather.get", "text": "будет ли холодно в Самара послезавтра"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "jokes.tell", "text": "подними настроение шуткой"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "weather.get", "text": "какая погода на выходных в Москва подробно"}
+{"skill": "math.calculate", "text": "вычисли 51 минус 498"}
+{"skill": "system.help", "text": "покажи список команд"}
+{"skill": "music.play", "text": "включи песню Smells Like Teen Spirit"}
+{"skill": "timer.start", "text": "поставь таймер на сто двадцать пять секунд"}
+{"skill": "math.calculate", "text": "посчитай 318 плюс сто"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "timer.start", "text": "мне нужен таймер на двадцать пять минуту"}
+{"skill": "alarm.set", "text": "разбуди завтра в шесть утра"}
+{"skill": "timer.start", "text": "поставь таймер на двадцать пять секунду"}
+{"skill": "math.calculate", "text": "сколько будет 17 умножить на 342"}
+{"skill": "math.calculate", "text": "вычисли 464 минус 342"}
+{"skill": "music.play", "text": "поставь трек Звезда по имени Солнце"}
+{"skill": "alarm.set", "text": "сделай будильник через пять минут, пожалуйста"}
+{"skill": "system.help", "text": "расскажи о своих возможностях"}
+{"skill": "timer.start", "text": "напомни через сорок пять секунд"}
+{"skill": "weather.get", "text": "какая погода на завтра утром в Нижний Новгород со скоростью ветра"}
+{"skill": "math.calculate", "text": "какой результат если 5 умножить на 59"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "math.calculate", "text": "вычисли 267 умножить на 63"}
+{"skill": "music.play", "text": "включи радио по дороге в Москва"}
+{"skill": "news.get", "text": "последние новости про экономику"}
+{"skill": "alarm.set", "text": "поставь будильник сегодня вечером"}
+{"skill": "alarm.set", "text": "напомни мне проснуться завтра вечером"}
+{"skill": "jokes.tell", "text": "ещё один анекдот"}
+{"skill": "time.now", "text": "сколько времени на часах"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "music.play", "text": "включи Skyfall от Billie Eilish"}
+{"skill": "weather.get", "text": "температура в Новосибирск послезавтра"}
+{"skill": "alarm.set", "text": "разбуди завтра через две минуты"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 219 плюс 432 в уме"}
+{"skill": "reminder.add", "text": "напомни вечером проверить почту"}
+{"skill": "reminder.add", "text": "напомни в десять ноль пять выгулять собаку"}
+{"skill": "math.calculate", "text": "посчитай 133 минус семьдесят"}
+{"skill": "reminder.add", "text": "напомни вечером отправить отчёт начальнику"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 396 минус 346 в уме"}
+{"skill": "math.calculate", "text": "мне нужно узнать 436 плюс 389"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Москва"}
+{"skill": "reminder.add", "text": "создай напоминание про то, чтобы позвонить бабушке завтра вечером"}
+{"skill": "timer.start", "text": "мне нужен таймер на 285 секунд"}
+{"skill": "weather.get", "text": "что по погоде в Сочи на выходных"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне сходить в зал"}
+{"skill": "weather.get", "text": "будет ли дождь в Питер завтра"}
+{"skill": "math.calculate", "text": "мне нужно узнать 130 умножить на 158"}
+{"skill": "timer.start", "text": "засеки пятьдесят секунд"}
+{"skill": "math.calculate", "text": "вычисли 179 умножить на 160"}
+{"skill": "math.calculate", "text": "вычисли 226 минус 85"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "timer.start", "text": "мне нужен таймер на семьдесят секунду"}
+{"skill": "alarm.set", "text": "подъём через десять минут, поставь будильник"}
+{"skill": "weather.get", "text": "какая погода послезавтра в Самара с температурой"}
+{"skill": "reminder.add", "text": "напомни вечером сходить в зал"}
+{"skill": "reminder.add", "text": "сделай напоминание через восемь часов сходить в зал"}
+{"skill": "jokes.tell", "text": "пошути"}
+{"skill": "reminder.add", "text": "сделай напоминание: заказать пиццу"}
+{"skill": "alarm.set", "text": "мне нужно встать через полтора часа, поставь будильник"}
+{"skill": "jokes.tell", "text": "анекдот про студентов давай"}
+{"skill": "timer.start", "text": "засеки 138 часа"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "reminder.add", "text": "сделай напоминание послезавтра утром сходить в зал"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра в половину восьмого"}
+{"skill": "math.calculate", "text": "сколько будет 313 минус 202"}
+{"skill": "news.get", "text": "есть что‑нибудь важное в новостях"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "reminder.add", "text": "напомни мне потом заказать пиццу"}
+{"skill": "weather.get", "text": "погода в Уфа на сегодня"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Самара"}
+{"skill": "music.play", "text": "поставь что‑нибудь из джаз"}
+{"skill": "jokes.tell", "text": "пошути"}
+{"skill": "timer.start", "text": "заведи таймер на 423 часа"}
+{"skill": "news.get", "text": "что нового в мире"}
+{"skill": "news.get", "text": "дай короткий обзор новостей"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "timer.start", "text": "запусти таймер на шестьдесят семь минут"}
+{"skill": "reminder.add", "text": "создай напоминание про то, чтобы записаться к стоматологу в шесть утра"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "news.get", "text": "какие сейчас главные новости дня"}
+{"skill": "news.get", "text": "какие последние новости"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "weather.get", "text": "как одеться в Екатеринбург послезавтра по погоде"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "reminder.add", "text": "сделай напоминание: сдать проект в университет"}
+{"skill": "alarm.set", "text": "мне нужно встать в девять тридцать, поставь будильник"}
+{"skill": "jokes.tell", "text": "есть свежий анекдот?"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "system.help", "text": "объясни, как создавать напоминания"}
+{"skill": "alarm.set", "text": "подъём через полтора часа, поставь будильник"}
+{"skill": "weather.get", "text": "будет ли холодно в Новосибирск на выходных"}
+{"skill": "news.get", "text": "какие сейчас главные новости дня"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра в десять ноль пять"}
+{"skill": "music.play", "text": "поставь что‑нибудь из русский рэп"}
+{"skill": "alarm.set", "text": "сделай будильник в полночь, пожалуйста"}
+{"skill": "music.play", "text": "включи радио по дороге в Краснодар"}
+{"skill": "weather.get", "text": "температура в Москва сегодня"}
+{"skill": "jokes.tell", "text": "расскажи что‑нибудь смешное про программистов"}
+{"skill": "alarm.set", "text": "напомни мне проснуться в полночь"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "news.get", "text": "какие сейчас главные новости дня"}
+{"skill": "news.get", "text": "что нового в России"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "weather.get", "text": "температура в Самара на завтра вечером"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "music.play", "text": "включи что‑нибудь романтичное"}
+{"skill": "jokes.tell", "text": "рассмеши меня"}
+{"skill": "weather.get", "text": "как одеться в Питер послезавтра по погоде"}
+{"skill": "music.stop", "text": "приглуши музыку до нуля"}
+{"skill": "jokes.tell", "text": "что‑нибудь смешное расскажи"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "music.stop", "text": "приглуши музыку до нуля"}
+{"skill": "music.play", "text": "поставь трек Владимирский централ"}
+{"skill": "system.help", "text": "как тебя использовать"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 61 плюс 272 в уме"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "jokes.tell", "text": "рассмеши меня"}
+{"skill": "math.calculate", "text": "сколько будет 456 минус 146"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра через три часа"}
+{"skill": "timer.start", "text": "поставь таймер на 56 секунд"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне позвонить бабушке"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "math.calculate", "text": "посчитай 245 минус 378"}
+{"skill": "news.get", "text": "есть что‑нибудь важное в новостях"}
+{"skill": "timer.start", "text": "таймер триста сорок два часа"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 494 умножить на 317 в уме"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "weather.get", "text": "как одеться в Сочи на выходных по погоде"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне проверить почту"}
+{"skill": "timer.start", "text": "запусти таймер на 89 минуту"}
+{"skill": "jokes.tell", "text": "анекдот про студентов давай"}
+{"skill": "weather.get", "text": "погода в Питер на сегодня"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "alarm.set", "text": "разбуди меня через месяц"}
+{"skill": "alarm.set", "text": "разбуди завтра без пятнадцати девять"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "jokes.tell", "text": "ещё один анекдот"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "timer.start", "text": "поставь таймер на 146 секунд"}
+{"skill": "music.play", "text": "включи песню Believer"}
+{"skill": "jokes.tell", "text": "что‑нибудь смешное расскажи"}
+{"skill": "music.play", "text": "включи мощный рок"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "math.calculate", "text": "посчитай 177 минус 101"}
+{"skill": "news.get", "text": "какие сейчас главные новости дня"}
+{"skill": "weather.get", "text": "что по погоде в Нижний Новгород завтра"}
+{"skill": "reminder.add", "text": "напомни в половину шестого вечера проверить почту"}
+{"skill": "jokes.tell", "text": "давай анекдот"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "weather.get", "text": "будет ли холодно в Питер на выходных"}
+{"skill": "reminder.add", "text": "сделай напоминание: позвонить бабушке"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Москва завтра"}
+{"skill": "math.calculate", "text": "посчитай 260 минус 54"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "alarm.set", "text": "сделай будильник в семь вечера, пожалуйста"}
+{"skill": "news.get", "text": "что нового в мире"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "timer.start", "text": "засеки 270 секунду"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "jokes.tell", "text": "давай анекдот"}
+{"skill": "timer.start", "text": "напомни через 422 часа"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "time.now", "text": "какое сейчас время суток"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "music.play", "text": "включи In the End от Linkin Park"}
+{"skill": "news.get", "text": "дай сводку новостей за сегодня"}
+{"skill": "jokes.tell", "text": "есть свежий анекдот?"}
+{"skill": "weather.get", "text": "погода в Москва на сегодня"}
+{"skill": "timer.start", "text": "поставь таймер на пятьдесят часа"}
+{"skill": "reminder.add", "text": "сделай напоминание: полить цветы"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Нижний Новгород"}
+{"skill": "reminder.add", "text": "сделай напоминание в шесть тридцать записаться к стоматологу"}
+{"skill": "weather.get", "text": "какая погода на завтра утром в Питер подробно"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "timer.start", "text": "мне нужен таймер на 40 часа"}
+{"skill": "alarm.set", "text": "поставь будильник в шесть тридцать"}
+{"skill": "timer.start", "text": "заведи таймер на 8 секунд"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "jokes.tell", "text": "ещё один анекдот"}
+{"skill": "reminder.add", "text": "через час напомни полить цветы"}
+{"skill": "music.play", "text": "поставь что‑нибудь из лоуфай для работы"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "music.play", "text": "включи Малиновое вино от Моргенштерн"}
+{"skill": "weather.get", "text": "погода в Нижний Новгород завтра"}
+{"skill": "timer.start", "text": "мне нужен таймер на 355 минуты"}
+{"skill": "system.help", "text": "объясни, как создавать напоминания"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "news.get", "text": "дай короткий обзор новостей"}
+{"skill": "reminder.add", "text": "напомни мне потом сделать домашку по математике"}
+{"skill": "reminder.add", "text": "напомни вечером сходить в зал"}
+{"skill": "timer.start", "text": "запусти таймер на двадцать секунды"}
+{"skill": "timer.start", "text": "запусти таймер на пять секунду"}
+{"skill": "timer.start", "text": "мне нужен таймер на триста сорок два час"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "system.help", "text": "что ты можешь"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "music.play", "text": "включи лоуфай для работы"}
+{"skill": "math.calculate", "text": "вычисли 306 плюс 132"}
+{"skill": "alarm.set", "text": "заведи будильник в пятницу вечером"}
+{"skill": "jokes.tell", "text": "расскажи что‑нибудь смешное про программистов"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Нижний Новгород на завтра утром"}
+{"skill": "alarm.set", "text": "будильник в десять ноль пять"}
+{"skill": "math.calculate", "text": "какой результат если 441 минус 161"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "system.help", "text": "покажи список команд"}
+{"skill": "timer.start", "text": "напомни через пятьдесят два минуты"}
+{"skill": "math.calculate", "text": "посчитай 476 плюс 488"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Сочи"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "jokes.tell", "text": "расскажи забавную историю"}
+{"skill": "timer.start", "text": "засеки восемьдесят девять час"}
+{"skill": "music.play", "text": "включи Владимирский централ от Linkin Park"}
+{"skill": "music.play", "text": "включи что‑нибудь романтичное"}
+{"skill": "system.help", "text": "что ты можешь"}
+{"skill": "news.get", "text": "дай короткий обзор новостей"}
+{"skill": "system.help", "text": "расскажи, как работать с таймером"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "alarm.set", "text": "поставь будильник через двадцать минут"}
+{"skill": "timer.start", "text": "поставь таймер на триста сорок два минуту"}
+{"skill": "reminder.add", "text": "напомни через две недели пропылесосить квартиру"}
+{"skill": "time.now", "text": "который час"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "music.play", "text": "включи Звезда по имени Солнце от Nirvana"}
+{"skill": "jokes.tell", "text": "анекдот про студентов давай"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "alarm.set", "text": "напомни мне проснуться сегодня вечером"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "jokes.tell", "text": "анекдот про студентов давай"}
+{"skill": "math.calculate", "text": "посчитай 235 минус 215"}
+{"skill": "math.calculate", "text": "посчитай 229 минус 43"}
+{"skill": "reminder.add", "text": "мне нужно сделать разминку, напомни мне в понедельник утром"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "music.play", "text": "включи что‑нибудь романтичное"}
+{"skill": "system.help", "text": "как узнать погоду через тебя"}
+{"skill": "timer.start", "text": "напомни через триста сорок два минуту"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "alarm.set", "text": "мне нужно встать через полтора часа, поставь будильник"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "reminder.add", "text": "напомни через месяц выгулять собаку"}
+{"skill": "time.now", "text": "который час"}
+{"skill": "music.play", "text": "включи что‑нибудь романтичное"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 403 минус 17 в уме"}
+{"skill": "alarm.set", "text": "заведи будильник через полтора часа"}
+{"skill": "music.play", "text": "включи Numb от Кино"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "math.calculate", "text": "сколько будет 494 разделить на 370"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "jokes.tell", "text": "пошути"}
+{"skill": "time.now", "text": "который час"}
+{"skill": "alarm.set", "text": "подъём в полночь, поставь будильник"}
+{"skill": "reminder.add", "text": "напомни через двадцать минут сделать домашку по математике"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "reminder.add", "text": "мне нужно позвонить бабушке, напомни мне в семь вечера"}
+{"skill": "timer.start", "text": "запусти таймер на двадцать секунды"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 56 минус 9 в уме"}
+{"skill": "reminder.add", "text": "через час напомни пропылесосить квартиру"}
+{"skill": "alarm.set", "text": "сделай будильник через сорок пять минут, пожалуйста"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 34 минус 497 в уме"}
+{"skill": "time.now", "text": "сколько времени на часах"}
+{"skill": "reminder.add", "text": "напомни через две недели помыть посуду"}
+{"skill": "reminder.add", "text": "через час напомни заказать пиццу"}
+{"skill": "timer.start", "text": "таймер пятнадцать секунд"}
+{"skill": "weather.get", "text": "будет ли дождь в Самара на завтра вечером"}
+{"skill": "weather.get", "text": "как одеться в Казань сегодня по погоде"}
+{"skill": "timer.start", "text": "таймер 187 час"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "weather.get", "text": "что по погоде в Самара сегодня"}
+{"skill": "reminder.add", "text": "не дай забыть помыть посуду, напомни в половину восьмого"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "jokes.tell", "text": "ещё один анекдот"}
+{"skill": "reminder.add", "text": "мне нужно сходить в зал, напомни мне завтра утром"}
+{"skill": "system.help", "text": "что ты можешь делать с музыкой"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "news.get", "text": "что нового в России"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне полить цветы"}
+{"skill": "reminder.add", "text": "через час напомни записаться к стоматологу"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "system.help", "text": "объясни, как создавать напоминания"}
+{"skill": "music.play", "text": "включи что‑то новое из чартов"}
+{"skill": "timer.start", "text": "напомни через тридцать два минуты"}
+{"skill": "news.get", "text": "какие сейчас главные новости дня"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "jokes.tell", "text": "расскажи забавную историю"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне позвонить бабушке"}
+{"skill": "timer.start", "text": "запусти таймер на девяносто минуты"}
+{"skill": "time.now", "text": "сколько времени на часах"}
+{"skill": "weather.get", "text": "что по погоде в Краснодар на завтра вечером"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "reminder.add", "text": "создай напоминание про то, чтобы сделать домашку по математике в шесть тридцать"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Питер на ближайшую неделю"}
+{"skill": "timer.start", "text": "заведи таймер на 150 секунду"}
+{"skill": "weather.get", "text": "как одеться в Самара на ближайшую неделю по погоде"}
+{"skill": "alarm.set", "text": "заведи будильник в семь вечера"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "jokes.tell", "text": "пошути"}
+{"skill": "timer.start", "text": "таймер 409 секунд"}
+{"skill": "alarm.set", "text": "заведи будильник в половину восьмого"}
+{"skill": "system.help", "text": "расскажи о своих возможностях"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "alarm.set", "text": "подъём в шесть тридцать, поставь будильник"}
+{"skill": "alarm.set", "text": "сделай будильник через месяц, пожалуйста"}
+{"skill": "weather.get", "text": "будет ли дождь в Уфа на ближайшую неделю"}
+{"skill": "system.help", "text": "как узнать погоду через тебя"}
+{"skill": "reminder.add", "text": "напомни вечером сделать домашку по математике"}
+{"skill": "math.calculate", "text": "какой результат если 467 разделить на 133"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "timer.start", "text": "запусти таймер на пять минуты"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "music.stop", "text": "приглуши музыку до нуля"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "reminder.add", "text": "напомни вечером записаться к стоматологу"}
+{"skill": "news.get", "text": "последние новости про экономику"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "weather.get", "text": "температура в Краснодар завтра"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "music.play", "text": "включи песню Radioactive"}
+{"skill": "math.calculate", "text": "посчитай 280 минус 109"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "reminder.add", "text": "напомни через две недели выгулять собаку"}
+{"skill": "reminder.add", "text": "создай напоминание про то, чтобы записаться к стоматологу в девять ноль ноль"}
+{"skill": "reminder.add", "text": "мне нужно проверить почту, напомни мне в половину восьмого"}
+{"skill": "alarm.set", "text": "будильник через две недели"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "timer.start", "text": "заведи таймер на 193 минут"}
+{"skill": "weather.get", "text": "погода в Москва на завтра вечером"}
+{"skill": "alarm.set", "text": "будильник в половину шестого вечера"}
+{"skill": "alarm.set", "text": "подъём завтра вечером, поставь будильник"}
+{"skill": "alarm.set", "text": "поставь будильник ровно в семь"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "system.help", "text": "что ты умеешь"}
+{"skill": "weather.get", "text": "будет ли холодно в Нижний Новгород на выходных"}
+{"skill": "jokes.tell", "text": "расскажи забавную историю"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "system.help", "text": "расскажи, как работать с таймером"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "news.get", "text": "есть что‑нибудь важное в новостях"}
+{"skill": "system.help", "text": "что ты можешь делать с музыкой"}
+{"skill": "reminder.add", "text": "сделай напоминание: записаться к стоматологу"}
+{"skill": "system.help", "text": "что ты можешь"}
+{"skill": "alarm.set", "text": "сделай будильник в полседьмого утра, пожалуйста"}
+{"skill": "math.calculate", "text": "какой результат если 197 минус 182"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "alarm.set", "text": "сделай будильник через пять минут, пожалуйста"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "system.help", "text": "что ты можешь"}
+{"skill": "timer.start", "text": "таймер 437 минут"}
+{"skill": "reminder.add", "text": "напомни вечером полить цветы"}
+{"skill": "system.help", "text": "что ты умеешь"}
+{"skill": "reminder.add", "text": "напомни через две недели оплатить коммуналку"}
+{"skill": "timer.start", "text": "поставь таймер на 131 секунду"}
+{"skill": "music.play", "text": "включи что‑то новое из чартов"}
+{"skill": "alarm.set", "text": "поставь будильник в полночь"}
+{"skill": "timer.start", "text": "заведи таймер на триста сорок два секунду"}
+{"skill": "timer.start", "text": "таймер 24 минуты"}
+{"skill": "weather.get", "text": "будет ли дождь в Краснодар на выходных"}
+{"skill": "music.play", "text": "включи старые хиты девяностых"}
+{"skill": "news.get", "text": "последние новости про экономику"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 41 минус 217 в уме"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "time.now", "text": "сколько времени на часах"}
+{"skill": "weather.get", "text": "погода в Самара на сегодня"}
+{"skill": "music.play", "text": "поставь трек Владимирский централ"}
+{"skill": "music.stop", "text": "выруби музыку"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "reminder.add", "text": "мне нужно купить молоко, напомни мне через десять минут"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "weather.get", "text": "как одеться в Нижний Новгород сегодня по погоде"}
+{"skill": "time.now", "text": "который час"}
+{"skill": "timer.start", "text": "запусти таймер на 55 секунду"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "alarm.set", "text": "разбуди меня завтра вечером"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "system.help", "text": "расскажи о своих возможностях"}
+{"skill": "reminder.add", "text": "поставь напоминание в шесть ноль ноль про пропылесосить квартиру"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "reminder.add", "text": "напомни вечером заказать пиццу"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 28 разделить на 270 в уме"}
+{"skill": "reminder.add", "text": "мне нужно полить цветы, напомни мне в понедельник утром"}
+{"skill": "math.calculate", "text": "вычисли 243 минус 17"}
+{"skill": "system.help", "text": "какие есть функции"}
+{"skill": "system.help", "text": "расскажи о своих возможностях"}
+{"skill": "weather.get", "text": "что по погоде в Сочи на завтра утром"}
+{"skill": "news.get", "text": "что нового в России"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "system.help", "text": "что я могу у тебя спросить"}
+{"skill": "weather.get", "text": "погода в Сочи на сегодня"}
+{"skill": "music.play", "text": "включи что‑то новое из чартов"}
+{"skill": "system.help", "text": "что ты можешь"}
+{"skill": "alarm.set", "text": "будильник послезавтра утром"}
+{"skill": "system.help", "text": "что ты можешь"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "reminder.add", "text": "напомни мне потом пропылесосить квартиру"}
+{"skill": "system.help", "text": "что ты можешь"}
+{"skill": "reminder.add", "text": "мне нужно купить молоко, напомни мне в десять ноль пять"}
+{"skill": "music.play", "text": "включи мощный рок"}
+{"skill": "weather.get", "text": "погода в Уфа послезавтра"}
+{"skill": "math.calculate", "text": "сколько будет 73 умножить на 374"}
+{"skill": "jokes.tell", "text": "что‑нибудь смешное расскажи"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "music.play", "text": "включи радио по дороге в Уфа"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "reminder.add", "text": "напомни вечером заказать пиццу"}
+{"skill": "time.now", "text": "сколько времени в Москве"}
+{"skill": "reminder.add", "text": "через час напомни купить молоко"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Самара"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "reminder.add", "text": "поставь напоминание через пять минут про пропылесосить квартиру"}
+{"skill": "music.play", "text": "включи All of Me от Queen"}
+{"skill": "alarm.set", "text": "поставь будильник в час дня"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 405 умножить на 35 в уме"}
+{"skill": "reminder.add", "text": "напомни через две недели отправить отчёт начальнику"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "reminder.add", "text": "напомни через две недели заказать пиццу"}
+{"skill": "music.play", "text": "включи что‑то новое из чартов"}
+{"skill": "alarm.set", "text": "мне нужно встать завтра утром, поставь будильник"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "reminder.add", "text": "создай напоминание про то, чтобы оплатить коммуналку в пятницу вечером"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "system.help", "text": "расскажи о своих возможностях"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "math.calculate", "text": "вычисли 212 разделить на 45"}
+{"skill": "reminder.add", "text": "напомни через две недели позвонить бабушке"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "alarm.set", "text": "напомни мне проснуться завтра вечером"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "jokes.tell", "text": "рассмеши меня"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "reminder.add", "text": "не дай забыть пропылесосить квартиру, напомни без пятнадцати девять"}
+{"skill": "timer.start", "text": "засеки тридцать два секунды"}
+{"skill": "time.now", "text": "который час"}
+{"skill": "system.help", "text": "объясни, как создавать напоминания"}
+{"skill": "math.calculate", "text": "какой результат если 280 разделить на 110"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "alarm.set", "text": "мне нужно встать завтра вечером, поставь будильник"}
+{"skill": "weather.get", "text": "какая погода на завтра утром в Екатеринбург подробно"}
+{"skill": "alarm.set", "text": "мне нужно встать в девять ноль ноль, поставь будильник"}
+{"skill": "music.play", "text": "поставь трек Shape of You"}
+{"skill": "news.get", "text": "какие последние новости"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "reminder.add", "text": "напомни мне потом полить цветы"}
+{"skill": "alarm.set", "text": "разбуди завтра в начале седьмого"}
+{"skill": "timer.start", "text": "таймер 353 секунду"}
+{"skill": "reminder.add", "text": "напомни мне потом записаться к стоматологу"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "timer.start", "text": "запусти таймер на десять минут"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "reminder.add", "text": "напомни через две недели позвонить бабушке"}
+{"skill": "jokes.tell", "text": "ещё один анекдот"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "music.stop", "text": "приглуши музыку до нуля"}
+{"skill": "reminder.add", "text": "сделай напоминание сегодня утром сдать проект в университет"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 342 минус 402 в уме"}
+{"skill": "system.help", "text": "что ты можешь делать с музыкой"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "news.get", "text": "какие сейчас главные новости дня"}
+{"skill": "timer.start", "text": "поставь таймер на тридцать два минуты"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "alarm.set", "text": "разбуди завтра в шесть тридцать"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "math.calculate", "text": "посчитай 383 минус 352"}
+{"skill": "alarm.set", "text": "разбуди меня в шесть тридцать"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "math.calculate", "text": "мне нужно узнать 46 разделить на 67"}
+{"skill": "system.help", "text": "что ты можешь"}
+{"skill": "news.get", "text": "какие сейчас главные новости дня"}
+{"skill": "math.calculate", "text": "мне нужно узнать 169 плюс 497"}
+{"skill": "time.now", "text": "сколько времени на часах"}
+{"skill": "system.help", "text": "что я могу у тебя спросить"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "timer.start", "text": "заведи таймер на 341 секунды"}
+{"skill": "timer.start", "text": "заведи таймер на 66 часа"}
+{"skill": "math.calculate", "text": "мне нужно узнать 297 умножить на 290"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "weather.get", "text": "как одеться в Уфа завтра по погоде"}
+{"skill": "alarm.set", "text": "разбуди меня в шесть тридцать"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "news.get", "text": "последние новости про экономику"}
+{"skill": "system.help", "text": "помощь"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "weather.get", "text": "какая погода на завтра утром в Екатеринбург тепло ли будет"}
+{"skill": "weather.get", "text": "будет ли дождь в Уфа послезавтра"}
+{"skill": "reminder.add", "text": "сделай напоминание: сдать проект в университет"}
+{"skill": "news.get", "text": "что нового в России"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Нижний Новгород"}
+{"skill": "weather.get", "text": "погода в Уфа на ближайшую неделю"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "alarm.set", "text": "сделай будильник через восемь часов, пожалуйста"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "timer.start", "text": "заведи таймер на 417 час"}
+{"skill": "weather.get", "text": "погода в Самара на сегодня"}
+{"skill": "reminder.add", "text": "поставь напоминание через три часа про сдать проект в университет"}
+{"skill": "weather.get", "text": "какая погода на выходных в Нижний Новгород по часам"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "music.play", "text": "включи радио по дороге в Казань"}
+{"skill": "math.calculate", "text": "какой результат если 328 умножить на 459"}
+{"skill": "timer.start", "text": "напомни через семьдесят секунды"}
+{"skill": "music.stop", "text": "останови воспроизведение песен"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "reminder.add", "text": "сделай напоминание через пять минут купить молоко"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "alarm.set", "text": "разбуди завтра через месяц"}
+{"skill": "reminder.add", "text": "создай напоминание про то, чтобы записаться к стоматологу ровно в семь"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "news.get", "text": "последние новости про экономику"}
+{"skill": "alarm.set", "text": "мне нужно встать завтра утром, поставь будильник"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "system.help", "text": "расскажи о своих возможностях"}
+{"skill": "weather.get", "text": "температура в Самара на завтра вечером"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Сочи сегодня"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне оплатить коммуналку"}
+{"skill": "news.get", "text": "есть что‑нибудь важное в новостях"}
+{"skill": "jokes.tell", "text": "ещё один анекдот"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "weather.get", "text": "будет ли дождь в Краснодар сегодня"}
+{"skill": "music.play", "text": "включи радио по дороге в Нижний Новгород"}
+{"skill": "alarm.set", "text": "подъём в десять ноль пять, поставь будильник"}
+{"skill": "weather.get", "text": "температура в Москва на завтра утром"}
+{"skill": "jokes.tell", "text": "давай анекдот"}
+{"skill": "system.help", "text": "расскажи о своих возможностях"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "jokes.tell", "text": "подними настроение шуткой"}
+{"skill": "alarm.set", "text": "заведи будильник в девять тридцать"}
+{"skill": "timer.start", "text": "напомни через тридцать два минут"}
+{"skill": "system.help", "text": "как узнать погоду через тебя"}
+{"skill": "alarm.set", "text": "заведи будильник через три часа"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "weather.get", "text": "погода в Уфа на ближайшую неделю"}
+{"skill": "reminder.add", "text": "напомни мне потом записаться к стоматологу"}
+{"skill": "alarm.set", "text": "мне нужно встать в полночь, поставь будильник"}
+{"skill": "system.help", "text": "помощь"}
+{"skill": "timer.start", "text": "заведи таймер на 271 секунду"}
+{"skill": "timer.start", "text": "поставь таймер на сорок пять часа"}
+{"skill": "time.now", "text": "который час"}
+{"skill": "timer.start", "text": "напомни через 117 секунд"}
+{"skill": "system.help", "text": "объясни, как создавать напоминания"}
+{"skill": "system.help", "text": "помощь"}
+{"skill": "system.help", "text": "как тебя использовать"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "weather.get", "text": "погода в Москва на сегодня"}
+{"skill": "reminder.add", "text": "через час напомни пропылесосить квартиру"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "weather.get", "text": "будет ли дождь в Новосибирск завтра"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "system.help", "text": "расскажи о своих возможностях"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "timer.start", "text": "таймер 310 часа"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 144 минус 231 в уме"}
+{"skill": "timer.start", "text": "напомни через 218 секунду"}
+{"skill": "news.get", "text": "есть что‑нибудь важное в новостях"}
+{"skill": "timer.start", "text": "поставь таймер на 236 минут"}
+{"skill": "alarm.set", "text": "разбуди меня сегодня вечером"}
+{"skill": "weather.get", "text": "погода в Самара на сегодня"}
+{"skill": "music.play", "text": "включи песню Тает лёд"}
+{"skill": "timer.start", "text": "заведи таймер на 17 минуты"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Уфа"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 160 плюс 67 в уме"}
+{"skill": "system.help", "text": "что ты можешь"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "alarm.set", "text": "разбуди меня в начале десятого"}
+{"skill": "news.get", "text": "дай короткий обзор новостей"}
+{"skill": "reminder.add", "text": "поставь напоминание через две недели про позвонить бабушке"}
+{"skill": "timer.start", "text": "напомни через десять секунду"}
+{"skill": "jokes.tell", "text": "расскажи забавную историю"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Москва на завтра вечером"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "news.get", "text": "какие сейчас главные новости дня"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "reminder.add", "text": "не дай забыть позвонить бабушке, напомни в начале десятого"}
+{"skill": "reminder.add", "text": "не дай забыть отправить отчёт начальнику, напомни в начале десятого"}
+{"skill": "timer.start", "text": "заведи таймер на 141 минуту"}
+{"skill": "weather.get", "text": "будет ли дождь в Уфа на выходных"}
+{"skill": "alarm.set", "text": "мне нужно встать в понедельник утром, поставь будильник"}
+{"skill": "system.help", "text": "расскажи о своих возможностях"}
+{"skill": "music.stop", "text": "останови воспроизведение песен"}
+{"skill": "reminder.add", "text": "поставь напоминание в девять тридцать про сделать разминку"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "timer.start", "text": "засеки триста сорок два минуту"}
+{"skill": "math.calculate", "text": "какой результат если 110 умножить на 148"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "timer.start", "text": "заведи таймер на 26 час"}
+{"skill": "alarm.set", "text": "заведи будильник в пятницу вечером"}
+{"skill": "news.get", "text": "что нового в России"}
+{"skill": "music.play", "text": "поставь трек Тает лёд"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Нижний Новгород сегодня"}
+{"skill": "system.help", "text": "как узнать погоду через тебя"}
+{"skill": "alarm.set", "text": "сделай будильник в десять ноль пять, пожалуйста"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "news.get", "text": "дай сводку новостей за сегодня"}
+{"skill": "timer.start", "text": "заведи таймер на двадцать пять минуту"}
+{"skill": "math.calculate", "text": "сколько будет 245 минус 393"}
+{"skill": "timer.start", "text": "таймер 139 минут"}
+{"skill": "math.calculate", "text": "посчитай 304 умножить на 409"}
+{"skill": "timer.start", "text": "запусти таймер на 2 часа"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "math.calculate", "text": "вычисли 228 минус 5"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "news.get", "text": "что нового в мире"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра в девять тридцать"}
+{"skill": "music.stop", "text": "приглуши музыку до нуля"}
+{"skill": "system.help", "text": "что ты умеешь"}
+{"skill": "weather.get", "text": "будет ли холодно в Новосибирск на выходных"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "jokes.tell", "text": "что‑нибудь смешное расскажи"}
+{"skill": "reminder.add", "text": "не дай забыть полить цветы, напомни на выходных"}
+{"skill": "weather.get", "text": "как одеться в Нижний Новгород сегодня по погоде"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "weather.get", "text": "температура в Казань на выходных"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "music.play", "text": "поставь трек All of Me"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "weather.get", "text": "погода в Новосибирск на сегодня"}
+{"skill": "music.play", "text": "включи песню Radioactive"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне полить цветы"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "time.now", "text": "который час"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 176 умножить на 150 в уме"}
+{"skill": "reminder.add", "text": "напомни мне потом сделать домашку по математике"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Питер сегодня"}
+{"skill": "alarm.set", "text": "подъём через восемь часов, поставь будильник"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "math.calculate", "text": "вычисли 94 умножить на 359"}
+{"skill": "weather.get", "text": "температура в Сочи завтра"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 497 плюс 143 в уме"}
+{"skill": "weather.get", "text": "температура в Самара на ближайшую неделю"}
+{"skill": "music.play", "text": "врубим музыку погромче"}
+{"skill": "alarm.set", "text": "сделай будильник в шесть тридцать, пожалуйста"}
+{"skill": "music.play", "text": "включи песню Bohemian Rhapsody"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "jokes.tell", "text": "пошути"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "timer.start", "text": "таймер 271 минут"}
+{"skill": "jokes.tell", "text": "давай анекдот"}
+{"skill": "reminder.add", "text": "напомни через две недели купить молоко"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "music.play", "text": "включи что‑нибудь романтичное"}
+{"skill": "timer.start", "text": "поставь таймер на пятнадцать минуту"}
+{"skill": "news.get", "text": "есть что‑нибудь важное в новостях"}
+{"skill": "weather.get", "text": "температура в Питер сегодня"}
+{"skill": "math.calculate", "text": "сколько будет 167 минус 486"}
+{"skill": "weather.get", "text": "погода в Казань на завтра вечером"}
+{"skill": "reminder.add", "text": "сделай напоминание через две недели сделать домашку по математике"}
+{"skill": "timer.start", "text": "таймер 28 минуты"}
+{"skill": "system.help", "text": "объясни, как создавать напоминания"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне сдать проект в университет"}
+{"skill": "reminder.add", "text": "поставь напоминание через две минуты про пропылесосить квартиру"}
+{"skill": "weather.get", "text": "погода в Питер на ближайшую неделю"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Нижний Новгород"}
+{"skill": "math.calculate", "text": "сколько будет 32 разделить на 163"}
+{"skill": "alarm.set", "text": "поставь будильник на выходных"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 89 разделить на 212 в уме"}
+{"skill": "timer.start", "text": "заведи таймер на 133 секунд"}
+{"skill": "timer.start", "text": "поставь таймер на десять секунду"}
+{"skill": "math.calculate", "text": "сколько будет 451 разделить на 252"}
+{"skill": "music.stop", "text": "приглуши музыку до нуля"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "weather.get", "text": "как одеться в Нижний Новгород послезавтра по погоде"}
+{"skill": "timer.start", "text": "поставь таймер на 230 секунд"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "weather.get", "text": "будет ли дождь в Питер на завтра утром"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "jokes.tell", "text": "анекдот про студентов давай"}
+{"skill": "reminder.add", "text": "сделай напоминание: сходить в зал"}
+{"skill": "math.calculate", "text": "мне нужно узнать 92 умножить на 165"}
+{"skill": "time.now", "text": "сколько времени в Москве"}
+{"skill": "alarm.set", "text": "разбуди завтра в шесть тридцать"}
+{"skill": "jokes.tell", "text": "что‑нибудь смешное расскажи"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "math.calculate", "text": "какой результат если 475 разделить на 308"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "alarm.set", "text": "будильник через пять минут"}
+{"skill": "weather.get", "text": "как одеться в Екатеринбург на ближайшую неделю по погоде"}
+{"skill": "music.play", "text": "поставь трек Владимирский централ"}
+{"skill": "jokes.tell", "text": "расскажи что‑нибудь смешное про программистов"}
+{"skill": "time.now", "text": "сколько времени на часах"}
+{"skill": "weather.get", "text": "будет ли холодно в Питер на выходных"}
+{"skill": "news.get", "text": "есть что‑нибудь важное в новостях"}
+{"skill": "time.now", "text": "сколько времени в Москве"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "jokes.tell", "text": "расскажи что‑нибудь смешное про программистов"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "timer.start", "text": "напомни через 28 секунду"}
+{"skill": "alarm.set", "text": "мне нужно встать в семь вечера, поставь будильник"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "reminder.add", "text": "создай напоминание про то, чтобы пропылесосить квартиру в шесть тридцать"}
+{"skill": "news.get", "text": "дай сводку новостей за сегодня"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "reminder.add", "text": "поставь напоминание через месяц про полить цветы"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Сочи на завтра утром"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "jokes.tell", "text": "что‑нибудь смешное расскажи"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "reminder.add", "text": "напомни вечером сходить в зал"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "alarm.set", "text": "поставь будильник в три часа ночи"}
+{"skill": "reminder.add", "text": "не дай забыть пропылесосить квартиру, напомни через месяц"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "math.calculate", "text": "посчитай 410 плюс 345"}
+{"skill": "alarm.set", "text": "мне нужно встать в три часа ночи, поставь будильник"}
+{"skill": "math.calculate", "text": "посчитай 117 минус 51"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "timer.start", "text": "мне нужен таймер на 418 минуты"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Екатеринбург"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "jokes.tell", "text": "анекдот про студентов давай"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Нижний Новгород на завтра вечером"}
+{"skill": "alarm.set", "text": "разбуди завтра через двадцать минут"}
+{"skill": "weather.get", "text": "будет ли дождь в Москва послезавтра"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Самара"}
+{"skill": "system.help", "text": "помощь"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне оплатить коммуналку"}
+{"skill": "jokes.tell", "text": "подними настроение шуткой"}
+{"skill": "music.play", "text": "поставь трек Smells Like Teen Spirit"}
+{"skill": "time.now", "text": "который час"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "math.calculate", "text": "сколько будет 313 плюс 401"}
+{"skill": "math.calculate", "text": "вычисли 359 умножить на 284"}
+{"skill": "math.calculate", "text": "мне нужно узнать 246 минус 108"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "math.calculate", "text": "мне нужно узнать 256 умножить на 415"}
+{"skill": "weather.get", "text": "какая погода на выходных в Новосибирск подробно"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "music.play", "text": "включи радио по дороге в Новосибирск"}
+{"skill": "system.help", "text": "как узнать погоду через тебя"}
+{"skill": "jokes.tell", "text": "анекдот про студентов давай"}
+{"skill": "weather.get", "text": "погода в Москва сегодня"}
+{"skill": "system.help", "text": "что ты можешь делать с музыкой"}
+{"skill": "weather.get", "text": "температура в Новосибирск завтра"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "music.play", "text": "включи мощный рок"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "time.now", "text": "сколько времени в Москве"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Нижний Новгород сегодня"}
+{"skill": "weather.get", "text": "как одеться в Уфа на ближайшую неделю по погоде"}
+{"skill": "jokes.tell", "text": "есть свежий анекдот?"}
+{"skill": "news.get", "text": "что нового в мире"}
+{"skill": "music.play", "text": "врубим музыку погромче"}
+{"skill": "system.help", "text": "что я могу у тебя спросить"}
+{"skill": "system.help", "text": "расскажи, как работать с таймером"}
+{"skill": "weather.get", "text": "температура в Питер завтра"}
+{"skill": "math.calculate", "text": "посчитай 349 умножить на 472"}
+{"skill": "timer.start", "text": "засеки 484 минуту"}
+{"skill": "alarm.set", "text": "разбуди меня в девять ноль ноль"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "weather.get", "text": "погода в Новосибирск на завтра вечером"}
+{"skill": "system.help", "text": "какие есть функции"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "timer.start", "text": "поставь таймер на 223 секунды"}
+{"skill": "news.get", "text": "новости спорта расскажи"}
+{"skill": "news.get", "text": "новости спорта расскажи"}
+{"skill": "system.help", "text": "покажи список команд"}
+{"skill": "timer.start", "text": "таймер 435 минут"}
+{"skill": "alarm.set", "text": "разбуди завтра через месяц"}
+{"skill": "news.get", "text": "дай сводку новостей за сегодня"}
+{"skill": "weather.get", "text": "погода в Казань завтра"}
+{"skill": "reminder.add", "text": "мне нужно сделать разминку, напомни мне через две минуты"}
+{"skill": "timer.start", "text": "заведи таймер на 294 секунду"}
+{"skill": "system.help", "text": "объясни, как создавать напоминания"}
+{"skill": "alarm.set", "text": "напомни мне проснуться через месяц"}
+{"skill": "music.play", "text": "включи радио по дороге в Москва"}
+{"skill": "timer.start", "text": "запусти таймер на сто секунд"}
+{"skill": "alarm.set", "text": "мне нужно встать в десять ноль пять, поставь будильник"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "reminder.add", "text": "через час напомни записаться к стоматологу"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "jokes.tell", "text": "анекдот про студентов давай"}
+{"skill": "music.play", "text": "включи джаз"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "music.stop", "text": "останови воспроизведение песен"}
+{"skill": "timer.start", "text": "напомни через 482 секунды"}
+{"skill": "music.play", "text": "включи песню Skyfall"}
+{"skill": "jokes.tell", "text": "ещё один анекдот"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "news.get", "text": "дай сводку новостей за сегодня"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "timer.start", "text": "таймер пятнадцать секунд"}
+{"skill": "timer.start", "text": "заведи таймер на пятьдесят два секунду"}
+{"skill": "music.play", "text": "включи Radioactive от Моргенштерн"}
+{"skill": "weather.get", "text": "какая погода на завтра утром в Казань с температурой"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "jokes.tell", "text": "подними настроение шуткой"}
+{"skill": "alarm.set", "text": "мне нужно встать через две недели, поставь будильник"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне отправить отчёт начальнику"}
+{"skill": "music.play", "text": "врубим музыку погромче"}
+{"skill": "math.calculate", "text": "какой результат если 430 плюс 10"}
+{"skill": "jokes.tell", "text": "давай анекдот"}
+{"skill": "math.calculate", "text": "вычисли 222 умножить на 210"}
+{"skill": "reminder.add", "text": "напомни через сорок пять минут отправить отчёт начальнику"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "music.stop", "text": "останови воспроизведение песен"}
+{"skill": "jokes.tell", "text": "подними настроение шуткой"}
+{"skill": "timer.start", "text": "засеки пятнадцать секунды"}
+{"skill": "news.get", "text": "дай сводку новостей за сегодня"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "timer.start", "text": "напомни через 137 секунды"}
+{"skill": "jokes.tell", "text": "анекдот про студентов давай"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "system.help", "text": "как тебя использовать"}
+{"skill": "jokes.tell", "text": "подними настроение шуткой"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "math.calculate", "text": "сколько будет 159 разделить на 374"}
+{"skill": "math.calculate", "text": "посчитай 62 минус 500"}
+{"skill": "timer.start", "text": "напомни через 453 минут"}
+{"skill": "weather.get", "text": "что по погоде в Сочи на завтра утром"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "system.help", "text": "как тебя использовать"}
+{"skill": "math.calculate", "text": "вычисли 29 плюс 324"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 449 минус 286 в уме"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "timer.start", "text": "мне нужен таймер на 117 секунд"}
+{"skill": "weather.get", "text": "температура в Москва на завтра утром"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне купить молоко"}
+{"skill": "news.get", "text": "новости спорта расскажи"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "reminder.add", "text": "не дай забыть купить молоко, напомни через месяц"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "timer.start", "text": "таймер 27 час"}
+{"skill": "math.calculate", "text": "посчитай 320 умножить на 344"}
+{"skill": "system.help", "text": "помощь"}
+{"skill": "music.play", "text": "поставь что‑нибудь из что‑нибудь для сна"}
+{"skill": "alarm.set", "text": "сделай будильник в три часа ночи, пожалуйста"}
+{"skill": "timer.start", "text": "запусти таймер на девяносто секунд"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра в шесть тридцать"}
+{"skill": "alarm.set", "text": "разбуди меня в начале десятого"}
+{"skill": "timer.start", "text": "напомни через 193 минут"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "news.get", "text": "дай короткий обзор новостей"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "system.help", "text": "что ты можешь делать с музыкой"}
+{"skill": "timer.start", "text": "заведи таймер на девяносто секунды"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "reminder.add", "text": "не дай забыть записаться к стоматологу, напомни через полчаса"}
+{"skill": "music.play", "text": "включи что‑нибудь романтичное"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне сдать проект в университет"}
+{"skill": "weather.get", "text": "погода в Москва на сегодня"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 466 плюс 177 в уме"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "reminder.add", "text": "напомни мне потом пропылесосить квартиру"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "alarm.set", "text": "подъём через две минуты, поставь будильник"}
+{"skill": "weather.get", "text": "будет ли дождь в Краснодар завтра"}
+{"skill": "jokes.tell", "text": "расскажи что‑нибудь смешное про программистов"}
+{"skill": "alarm.set", "text": "разбуди завтра в полночь"}
+{"skill": "math.calculate", "text": "мне нужно узнать 68 умножить на 46"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "reminder.add", "text": "сделай напоминание: заказать пиццу"}
+{"skill": "weather.get", "text": "будет ли дождь в Нижний Новгород на завтра вечером"}
+{"skill": "weather.get", "text": "будет ли дождь в Сочи на завтра утром"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Нижний Новгород"}
+{"skill": "timer.start", "text": "таймер тридцать два секунд"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "weather.get", "text": "погода в Самара на сегодня"}
+{"skill": "timer.start", "text": "поставь таймер на 361 минуты"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "timer.start", "text": "заведи таймер на сто секунды"}
+{"skill": "system.help", "text": "как тебя использовать"}
+{"skill": "music.play", "text": "включи песню Тает лёд"}
+{"skill": "reminder.add", "text": "через час напомни сходить в зал"}
+{"skill": "timer.start", "text": "засеки сорок секунды"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Нижний Новгород завтра"}
+{"skill": "timer.start", "text": "засеки 447 секунд"}
+{"skill": "reminder.add", "text": "создай напоминание про то, чтобы помыть посуду через полтора часа"}
+{"skill": "jokes.tell", "text": "пошути"}
+{"skill": "reminder.add", "text": "напомни вечером отправить отчёт начальнику"}
+{"skill": "math.calculate", "text": "сколько будет 169 плюс 84"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "reminder.add", "text": "напомни мне потом сделать домашку по математике"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "timer.start", "text": "запусти таймер на 475 секунд"}
+{"skill": "math.calculate", "text": "мне нужно узнать 427 минус 189"}
+{"skill": "jokes.tell", "text": "подними настроение шуткой"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне заказать пиццу"}
+{"skill": "jokes.tell", "text": "что‑нибудь смешное расскажи"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "reminder.add", "text": "напомни через две недели проверить почту"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "music.play", "text": "врубим музыку погромче"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "jokes.tell", "text": "что‑нибудь смешное расскажи"}
+{"skill": "system.help", "text": "объясни, как создавать напоминания"}
+{"skill": "alarm.set", "text": "заведи будильник в четверть восьмого"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "timer.start", "text": "засеки 447 секунду"}
+{"skill": "jokes.tell", "text": "анекдот про студентов давай"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "news.get", "text": "что нового в мире"}
+{"skill": "reminder.add", "text": "мне нужно выгулять собаку, напомни мне завтра утром"}
+{"skill": "news.get", "text": "есть что‑нибудь важное в новостях"}
+{"skill": "reminder.add", "text": "не дай забыть сделать разминку, напомни в три часа ночи"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "jokes.tell", "text": "расскажи забавную историю"}
+{"skill": "math.calculate", "text": "сколько будет 171 минус 324"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "math.calculate", "text": "вычисли 425 умножить на 287"}
+{"skill": "math.calculate", "text": "мне нужно узнать 474 минус 457"}
+{"skill": "news.get", "text": "дай сводку новостей за сегодня"}
+{"skill": "alarm.set", "text": "сделай будильник в час дня, пожалуйста"}
+{"skill": "weather.get", "text": "какая погода послезавтра в Екатеринбург по часам"}
+{"skill": "system.help", "text": "как узнать погоду через тебя"}
+{"skill": "weather.get", "text": "что по погоде в Казань завтра"}
+{"skill": "timer.start", "text": "напомни через 220 час"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "timer.start", "text": "мне нужен таймер на 473 секунду"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "time.now", "text": "который час"}
+{"skill": "weather.get", "text": "погода в Новосибирск на сегодня"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "system.help", "text": "что ты умеешь"}
+{"skill": "alarm.set", "text": "сделай будильник через две минуты, пожалуйста"}
+{"skill": "reminder.add", "text": "напомни мне потом заказать пиццу"}
+{"skill": "timer.start", "text": "поставь таймер на 295 секунду"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "jokes.tell", "text": "пошути"}
+{"skill": "weather.get", "text": "будет ли дождь в Нижний Новгород на завтра вечером"}
+{"skill": "jokes.tell", "text": "давай анекдот"}
+{"skill": "alarm.set", "text": "мне нужно встать в шесть утра, поставь будильник"}
+{"skill": "music.play", "text": "включи песню In the End"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "math.calculate", "text": "мне нужно узнать 257 разделить на 62"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "weather.get", "text": "температура в Москва сегодня"}
+{"skill": "math.calculate", "text": "посчитай 188 плюс 90"}
+{"skill": "time.now", "text": "сколько времени на часах"}
+{"skill": "math.calculate", "text": "какой результат если 333 минус 500"}
+{"skill": "math.calculate", "text": "сколько будет 156 минус 121"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "time.now", "text": "сколько времени в Москве"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "weather.get", "text": "будет ли холодно в Нижний Новгород на ближайшую неделю"}
+{"skill": "timer.start", "text": "запусти таймер на 376 минуту"}
+{"skill": "math.calculate", "text": "какой результат если 459 разделить на 104"}
+{"skill": "weather.get", "text": "какая погода на завтра вечером в Сочи тепло ли будет"}
+{"skill": "alarm.set", "text": "будильник в десять ноль пять"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "alarm.set", "text": "разбуди завтра послезавтра утром"}
+{"skill": "jokes.tell", "text": "расскажи забавную историю"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "timer.start", "text": "запусти таймер на сорок пять минут"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "reminder.add", "text": "не дай забыть сделать домашку по математике, напомни в начале седьмого"}
+{"skill": "alarm.set", "text": "сделай будильник завтра вечером, пожалуйста"}
+{"skill": "system.help", "text": "как тебя использовать"}
+{"skill": "math.calculate", "text": "какой результат если 15 разделить на 42"}
+{"skill": "jokes.tell", "text": "есть свежий анекдот?"}
+{"skill": "timer.start", "text": "запусти таймер на 86 минут"}
+{"skill": "math.calculate", "text": "сколько будет 331 плюс 232"}
+{"skill": "math.calculate", "text": "мне нужно узнать 301 разделить на 104"}
+{"skill": "timer.start", "text": "заведи таймер на 334 часа"}
+{"skill": "news.get", "text": "новости спорта расскажи"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "reminder.add", "text": "сделай напоминание: записаться к стоматологу"}
+{"skill": "music.play", "text": "врубим музыку погромче"}
+{"skill": "timer.start", "text": "напомни через 430 секунд"}
+{"skill": "system.help", "text": "помощь"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "alarm.set", "text": "сделай будильник минут в десять одиннадцатого, пожалуйста"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра сегодня утром"}
+{"skill": "music.play", "text": "включи что‑то новое из чартов"}
+{"skill": "timer.start", "text": "таймер 9 минуты"}
+{"skill": "timer.start", "text": "засеки 476 секунды"}
+{"skill": "reminder.add", "text": "напомни мне потом помыть посуду"}
+{"skill": "music.play", "text": "врубим музыку погромче"}
+{"skill": "alarm.set", "text": "подъём завтра вечером, поставь будильник"}
+{"skill": "system.help", "text": "как узнать погоду через тебя"}
+{"skill": "time.now", "text": "сколько времени на часах"}
+{"skill": "timer.start", "text": "мне нужен таймер на семьдесят секунд"}
+{"skill": "reminder.add", "text": "через час напомни отправить отчёт начальнику"}
+{"skill": "timer.start", "text": "таймер восемьдесят девять секунду"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "reminder.add", "text": "сделай напоминание в начале десятого пропылесосить квартиру"}
+{"skill": "weather.get", "text": "погода в Питер на сегодня"}
+{"skill": "reminder.add", "text": "не дай забыть сходить в зал, напомни завтра вечером"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "alarm.set", "text": "сделай будильник через десять минут, пожалуйста"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне сдать проект в университет"}
+{"skill": "music.play", "text": "врубим музыку погромче"}
+{"skill": "reminder.add", "text": "сделай напоминание в шесть тридцать сделать разминку"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "reminder.add", "text": "напомни мне потом сделать разминку"}
+{"skill": "timer.start", "text": "напомни через 303 секунд"}
+{"skill": "jokes.tell", "text": "давай анекдот"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "time.now", "text": "сколько времени на часах"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "music.play", "text": "включи Radioactive от Кино"}
+{"skill": "reminder.add", "text": "через час напомни пропылесосить квартиру"}
+{"skill": "jokes.tell", "text": "рассмеши меня"}
+{"skill": "math.calculate", "text": "посчитай 442 плюс 479"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "jokes.tell", "text": "пошути"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне оплатить коммуналку"}
+{"skill": "system.help", "text": "как тебя использовать"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "jokes.tell", "text": "давай анекдот"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "alarm.set", "text": "будильник через полтора часа"}
+{"skill": "weather.get", "text": "погода в Нижний Новгород послезавтра"}
+{"skill": "music.play", "text": "поставь трек Bohemian Rhapsody"}
+{"skill": "weather.get", "text": "погода в Питер на сегодня"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "math.calculate", "text": "посчитай 101 разделить на 421"}
+{"skill": "reminder.add", "text": "сделай напоминание: купить молоко"}
+{"skill": "reminder.add", "text": "поставь напоминание в восемь пятнадцать про выгулять собаку"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Питер"}
+{"skill": "reminder.add", "text": "напомни мне потом записаться к стоматологу"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "music.play", "text": "включи радио по дороге в Сочи"}
+{"skill": "math.calculate", "text": "мне нужно узнать 371 умножить на 69"}
+{"skill": "math.calculate", "text": "сколько будет 410 минус 145"}
+{"skill": "alarm.set", "text": "поставь будильник минут в десять одиннадцатого"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "weather.get", "text": "температура в Новосибирск на завтра вечером"}
+{"skill": "jokes.tell", "text": "подними настроение шуткой"}
+{"skill": "weather.get", "text": "как одеться в Нижний Новгород на завтра утром по погоде"}
+{"skill": "music.play", "text": "включи что‑то новое из чартов"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "reminder.add", "text": "напомни мне потом заказать пиццу"}
+{"skill": "alarm.set", "text": "подъём через сорок пять минут, поставь будильник"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "system.help", "text": "покажи список команд"}
+{"skill": "reminder.add", "text": "напомни вечером помыть посуду"}
+{"skill": "reminder.add", "text": "сделай напоминание через две недели помыть посуду"}
+{"skill": "math.calculate", "text": "какой результат если 307 минус 262"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "reminder.add", "text": "напомни через две недели сходить в зал"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Нижний Новгород на выходных"}
+{"skill": "weather.get", "text": "погода в Екатеринбург на выходных"}
+{"skill": "reminder.add", "text": "через час напомни записаться к стоматологу"}
+{"skill": "math.calculate", "text": "мне нужно узнать 131 разделить на 185"}
+{"skill": "reminder.add", "text": "мне нужно полить цветы, напомни мне в семь вечера"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "jokes.tell", "text": "рассмеши меня"}
+{"skill": "system.help", "text": "что ты можешь"}
+{"skill": "system.help", "text": "покажи список команд"}
+{"skill": "music.play", "text": "поставь трек Bad Guy"}
+{"skill": "jokes.tell", "text": "анекдот про студентов давай"}
+{"skill": "weather.get", "text": "что по погоде в Казань на ближайшую неделю"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "system.help", "text": "какие есть функции"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "timer.start", "text": "засеки 94 секунд"}
+{"skill": "jokes.tell", "text": "есть свежий анекдот?"}
+{"skill": "reminder.add", "text": "напомни мне потом позвонить бабушке"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Сочи"}
+{"skill": "reminder.add", "text": "поставь напоминание в четверть восьмого про сходить в зал"}
+{"skill": "weather.get", "text": "что по погоде в Сочи завтра"}
+{"skill": "math.calculate", "text": "какой результат если 293 минус 205"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "timer.start", "text": "таймер триста сорок два секунду"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне помыть посуду"}
+{"skill": "news.get", "text": "что нового в России"}
+{"skill": "weather.get", "text": "погода в Нижний Новгород на сегодня"}
+{"skill": "weather.get", "text": "что по погоде в Краснодар на ближайшую неделю"}
+{"skill": "weather.get", "text": "как одеться в Самара послезавтра по погоде"}
+{"skill": "weather.get", "text": "как одеться в Казань сегодня по погоде"}
+{"skill": "weather.get", "text": "погода в Нижний Новгород на сегодня"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "timer.start", "text": "запусти таймер на 418 минуту"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "jokes.tell", "text": "подними настроение шуткой"}
+{"skill": "reminder.add", "text": "сделай напоминание в пятницу вечером заказать пиццу"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "alarm.set", "text": "мне нужно встать через месяц, поставь будильник"}
+{"skill": "system.help", "text": "что ты умеешь"}
+{"skill": "music.play", "text": "поставь трек Малиновое вино"}
+{"skill": "math.calculate", "text": "какой результат если 218 разделить на 352"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "timer.start", "text": "мне нужен таймер на семьдесят минут"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "alarm.set", "text": "поставь будильник минут в десять одиннадцатого"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "timer.start", "text": "мне нужен таймер на 363 секунд"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "music.play", "text": "поставь что‑нибудь из электронную музыку"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "weather.get", "text": "что по погоде в Нижний Новгород послезавтра"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "alarm.set", "text": "мне нужно встать в понедельник утром, поставь будильник"}
+{"skill": "weather.get", "text": "температура в Краснодар на завтра вечером"}
+{"skill": "alarm.set", "text": "мне нужно встать в девять тридцать, поставь будильник"}
+{"skill": "jokes.tell", "text": "рассмеши меня"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "jokes.tell", "text": "расскажи забавную историю"}
+{"skill": "math.calculate", "text": "какой результат если 487 разделить на 386"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "weather.get", "text": "какая погода на ближайшую неделю в Питер по часам"}
+{"skill": "alarm.set", "text": "заведи будильник в шесть утра"}
+{"skill": "weather.get", "text": "будет ли дождь в Нижний Новгород на выходных"}
+{"skill": "music.play", "text": "включи что‑то новое из чартов"}
+{"skill": "system.help", "text": "как тебя использовать"}
+{"skill": "system.help", "text": "что я могу у тебя спросить"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "news.get", "text": "новости спорта расскажи"}
+{"skill": "timer.start", "text": "заведи таймер на 452 минуту"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "system.help", "text": "объясни, как создавать напоминания"}
+{"skill": "alarm.set", "text": "разбуди меня в понедельник утром"}
+{"skill": "timer.start", "text": "запусти таймер на 113 минуты"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Питер"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Казань сегодня"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "timer.start", "text": "поставь таймер на 360 секунд"}
+{"skill": "time.now", "text": "сколько времени в Москве"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "alarm.set", "text": "подъём на выходных, поставь будильник"}
+{"skill": "reminder.add", "text": "создай напоминание про то, чтобы отправить отчёт начальнику сегодня вечером"}
+{"skill": "music.play", "text": "включи Bad Guy от Imagine Dragons"}
+{"skill": "reminder.add", "text": "не дай забыть купить молоко, напомни в шесть ноль ноль"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "reminder.add", "text": "сделай напоминание в десять ноль пять купить молоко"}
+{"skill": "jokes.tell", "text": "есть свежий анекдот?"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "timer.start", "text": "напомни через 292 минут"}
+{"skill": "alarm.set", "text": "сделай будильник через две минуты, пожалуйста"}
+{"skill": "weather.get", "text": "что по погоде в Казань на завтра вечером"}
+{"skill": "music.play", "text": "включи что‑нибудь романтичное"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "weather.get", "text": "будет ли дождь в Казань на завтра вечером"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "weather.get", "text": "какая погода завтра в Краснодар с температурой"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "jokes.tell", "text": "давай анекдот"}
+{"skill": "alarm.set", "text": "будильник через месяц"}
+{"skill": "math.calculate", "text": "мне нужно узнать 394 минус 179"}
+{"skill": "math.calculate", "text": "какой результат если 410 умножить на 155"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "weather.get", "text": "будет ли дождь в Сочи завтра"}
+{"skill": "alarm.set", "text": "поставь будильник завтра утром"}
+{"skill": "reminder.add", "text": "поставь напоминание в час дня про пропылесосить квартиру"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "weather.get", "text": "погода в Москва на ближайшую неделю"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "alarm.set", "text": "мне нужно встать в три часа ночи, поставь будильник"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 378 плюс 127 в уме"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "math.calculate", "text": "мне нужно узнать 188 плюс 301"}
+{"skill": "timer.start", "text": "засеки 452 минуту"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "weather.get", "text": "какая погода послезавтра в Самара по часам"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра через две недели"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "reminder.add", "text": "поставь напоминание через две недели про сделать домашку по математике"}
+{"skill": "music.play", "text": "поставь что‑нибудь из мощный рок"}
+{"skill": "math.calculate", "text": "вычисли 310 умножить на 479"}
+{"skill": "weather.get", "text": "будет ли дождь в Питер на выходных"}
+{"skill": "jokes.tell", "text": "пошути"}
+{"skill": "weather.get", "text": "какая погода сегодня в Екатеринбург подробно"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "reminder.add", "text": "напомни в пятницу вечером сделать домашку по математике"}
+{"skill": "music.stop", "text": "останови воспроизведение песен"}
+{"skill": "music.play", "text": "включи лоуфай для работы"}
+{"skill": "timer.start", "text": "таймер пятнадцать часа"}
+{"skill": "alarm.set", "text": "заведи будильник через две недели"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "alarm.set", "text": "сделай будильник в пятницу вечером, пожалуйста"}
+{"skill": "music.play", "text": "включи электронную музыку"}
+{"skill": "alarm.set", "text": "разбуди завтра в три часа ночи"}
+{"skill": "reminder.add", "text": "сделай напоминание: сдать проект в университет"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "reminder.add", "text": "создай напоминание про то, чтобы выгулять собаку через десять минут"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "timer.start", "text": "поставь таймер на триста сорок два минут"}
+{"skill": "math.calculate", "text": "какой результат если 365 разделить на 200"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра ровно в семь"}
+{"skill": "news.get", "text": "что нового в России"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "alarm.set", "text": "разбуди завтра через две недели"}
+{"skill": "weather.get", "text": "будет ли дождь в Нижний Новгород на выходных"}
+{"skill": "timer.start", "text": "заведи таймер на двадцать часа"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "timer.start", "text": "таймер двадцать пять секунды"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "reminder.add", "text": "поставь напоминание в понедельник утром про сдать проект в университет"}
+{"skill": "math.calculate", "text": "посчитай 316 умножить на 338"}
+{"skill": "alarm.set", "text": "напомни мне проснуться через три часа"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 387 умножить на 184 в уме"}
+{"skill": "alarm.set", "text": "разбуди завтра через две недели"}
+{"skill": "weather.get", "text": "погода в Питер на завтра утром"}
+{"skill": "news.get", "text": "какие последние новости"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "alarm.set", "text": "заведи будильник в полночь"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "reminder.add", "text": "поставь напоминание в полночь про записаться к стоматологу"}
+{"skill": "jokes.tell", "text": "ещё один анекдот"}
+{"skill": "weather.get", "text": "температура в Нижний Новгород на завтра утром"}
+{"skill": "timer.start", "text": "поставь таймер на 143 секунду"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Уфа на завтра вечером"}
+{"skill": "alarm.set", "text": "поставь будильник послезавтра утром"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "weather.get", "text": "что по погоде в Новосибирск на ближайшую неделю"}
+{"skill": "time.now", "text": "сколько времени в Москве"}
+{"skill": "timer.start", "text": "напомни через пятьдесят два часа"}
+{"skill": "math.calculate", "text": "какой результат если 177 разделить на 11"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "alarm.set", "text": "разбуди завтра через час"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "system.help", "text": "как узнать погоду через тебя"}
+{"skill": "system.help", "text": "расскажи, как работать с таймером"}
+{"skill": "music.play", "text": "включи радио по дороге в Нижний Новгород"}
+{"skill": "system.help", "text": "что ты умеешь"}
+{"skill": "news.get", "text": "есть что‑нибудь важное в новостях"}
+{"skill": "jokes.tell", "text": "есть свежий анекдот?"}
+{"skill": "timer.start", "text": "поставь таймер на сто двадцать пять секунд"}
+{"skill": "weather.get", "text": "температура в Краснодар на завтра вечером"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "timer.start", "text": "мне нужен таймер на 473 минуты"}
+{"skill": "timer.start", "text": "запусти таймер на 461 секунду"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "math.calculate", "text": "сколько будет 318 умножить на 451"}
+{"skill": "math.calculate", "text": "какой результат если 454 минус 152"}
+{"skill": "weather.get", "text": "что по погоде в Краснодар сегодня"}
+{"skill": "music.play", "text": "включи песню Shape of You"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра в половину шестого вечера"}
+{"skill": "jokes.tell", "text": "расскажи что‑нибудь смешное про программистов"}
+{"skill": "weather.get", "text": "будет ли дождь в Москва послезавтра"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Уфа завтра"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "math.calculate", "text": "сколько будет 168 умножить на 79"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "news.get", "text": "дай сводку новостей за сегодня"}
+{"skill": "reminder.add", "text": "через час напомни отправить отчёт начальнику"}
+{"skill": "math.calculate", "text": "какой результат если 134 умножить на 336"}
+{"skill": "timer.start", "text": "напомни через 436 минуты"}
+{"skill": "system.help", "text": "что я могу у тебя спросить"}
+{"skill": "jokes.tell", "text": "есть свежий анекдот?"}
+{"skill": "timer.start", "text": "поставь таймер на сорок секунду"}
+{"skill": "math.calculate", "text": "вычисли 476 плюс 381"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Москва завтра"}
+{"skill": "alarm.set", "text": "напомни мне проснуться сегодня утром"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "jokes.tell", "text": "пошути"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "system.help", "text": "какие есть функции"}
+{"skill": "system.help", "text": "как узнать погоду через тебя"}
+{"skill": "timer.start", "text": "напомни через сто минуту"}
+{"skill": "math.calculate", "text": "сколько будет 264 умножить на 485"}
+{"skill": "alarm.set", "text": "сделай будильник через две минуты, пожалуйста"}
+{"skill": "jokes.tell", "text": "расскажи что‑нибудь смешное про программистов"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "reminder.add", "text": "напомни мне потом пропылесосить квартиру"}
+{"skill": "weather.get", "text": "температура в Нижний Новгород на выходных"}
+{"skill": "system.help", "text": "что ты умеешь"}
+{"skill": "music.stop", "text": "останови воспроизведение песен"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "music.play", "text": "включи что‑нибудь романтичное"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "jokes.tell", "text": "пошути"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "weather.get", "text": "как одеться в Новосибирск на выходных по погоде"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "alarm.set", "text": "заведи будильник на выходных"}
+{"skill": "timer.start", "text": "мне нужен таймер на 243 часа"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "news.get", "text": "что нового в мире"}
+{"skill": "jokes.tell", "text": "что‑нибудь смешное расскажи"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "timer.start", "text": "напомни через 120 минуту"}
+{"skill": "timer.start", "text": "таймер 167 час"}
+{"skill": "music.play", "text": "включи Тает лёд от Linkin Park"}
+{"skill": "system.help", "text": "какие есть функции"}
+{"skill": "reminder.add", "text": "поставь напоминание через сорок пять минут про выгулять собаку"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне оплатить коммуналку"}
+{"skill": "news.get", "text": "какие последние новости"}
+{"skill": "system.help", "text": "какие есть функции"}
+{"skill": "math.calculate", "text": "мне нужно узнать 416 плюс 170"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "music.play", "text": "включи что‑нибудь романтичное"}
+{"skill": "math.calculate", "text": "посчитай 5 разделить на 64"}
+{"skill": "timer.start", "text": "заведи таймер на 267 секунду"}
+{"skill": "math.calculate", "text": "посчитай 234 плюс 424"}
+{"skill": "alarm.set", "text": "напомни мне проснуться через полчаса"}
+{"skill": "reminder.add", "text": "напомни через две недели отправить отчёт начальнику"}
+{"skill": "music.stop", "text": "останови трек"}
+{"skill": "reminder.add", "text": "через час напомни отправить отчёт начальнику"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "timer.start", "text": "напомни через 419 часа"}
+{"skill": "reminder.add", "text": "мне нужно сдать проект в университет, напомни мне через полтора часа"}
+{"skill": "math.calculate", "text": "мне нужно узнать 376 плюс 64"}
+{"skill": "alarm.set", "text": "сделай будильник через полтора часа, пожалуйста"}
+{"skill": "math.calculate", "text": "сколько будет 99 плюс 18"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "jokes.tell", "text": "рассмеши меня"}
+{"skill": "news.get", "text": "какие последние новости"}
+{"skill": "time.now", "text": "сколько времени в Москве"}
+{"skill": "news.get", "text": "какие сейчас главные новости дня"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра в пятницу вечером"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "timer.start", "text": "поставь таймер на сто двадцать пять минуту"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "math.calculate", "text": "вычисли 268 плюс 79"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "music.play", "text": "врубим музыку погромче"}
+{"skill": "system.help", "text": "какие есть функции"}
+{"skill": "reminder.add", "text": "мне нужно сходить в зал, напомни мне минут в десять одиннадцатого"}
+{"skill": "math.calculate", "text": "вычисли 406 разделить на 20"}
+{"skill": "math.calculate", "text": "посчитай 379 минус 28"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "timer.start", "text": "мне нужен таймер на 428 секунду"}
+{"skill": "weather.get", "text": "температура в Казань сегодня"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "alarm.set", "text": "разбуди меня через три часа"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "news.get", "text": "последние новости про экономику"}
+{"skill": "alarm.set", "text": "подъём в пятницу вечером, поставь будильник"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "system.help", "text": "расскажи, как работать с таймером"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "timer.start", "text": "напомни через пятнадцать секунду"}
+{"skill": "weather.get", "text": "как одеться в Казань сегодня по погоде"}
+{"skill": "music.play", "text": "поставь трек Тает лёд"}
+{"skill": "alarm.set", "text": "напомни мне проснуться через две минуты"}
+{"skill": "music.play", "text": "включи что‑нибудь для сна"}
+{"skill": "system.help", "text": "помощь"}
+{"skill": "weather.get", "text": "температура в Екатеринбург на выходных"}
+{"skill": "jokes.tell", "text": "что‑нибудь смешное расскажи"}
+{"skill": "music.play", "text": "включи что‑нибудь для сна"}
+{"skill": "timer.start", "text": "запусти таймер на 96 минуту"}
+{"skill": "reminder.add", "text": "напомни через две недели проверить почту"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра в полночь"}
+{"skill": "weather.get", "text": "какая погода на завтра утром в Казань если будет дождь"}
+{"skill": "timer.start", "text": "таймер 155 минуту"}
+{"skill": "alarm.set", "text": "сделай будильник через полчаса, пожалуйста"}
+{"skill": "math.calculate", "text": "сколько будет 186 умножить на 50"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне заказать пиццу"}
+{"skill": "system.help", "text": "что я могу у тебя спросить"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра через двадцать минут"}
+{"skill": "reminder.add", "text": "сделай напоминание через пять минут заказать пиццу"}
+{"skill": "math.calculate", "text": "какой результат если 377 плюс 143"}
+{"skill": "jokes.tell", "text": "рассмеши меня"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "reminder.add", "text": "не дай забыть сделать разминку, напомни через пять минут"}
+{"skill": "math.calculate", "text": "посчитай 73 плюс 134"}
+{"skill": "reminder.add", "text": "напомни мне потом заказать пиццу"}
+{"skill": "reminder.add", "text": "создай напоминание про то, чтобы отправить отчёт начальнику минут в десять одиннадцатого"}
+{"skill": "system.help", "text": "какие есть функции"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "jokes.tell", "text": "подними настроение шуткой"}
+{"skill": "math.calculate", "text": "посчитай 210 умножить на 329"}
+{"skill": "jokes.tell", "text": "хочу послушать шутку"}
+{"skill": "reminder.add", "text": "мне нужно помыть посуду, напомни мне через две недели"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "system.help", "text": "что ты можешь делать с музыкой"}
+{"skill": "music.stop", "text": "приглуши музыку до нуля"}
+{"skill": "music.play", "text": "включи песню Тает лёд"}
+{"skill": "system.help", "text": "помощь"}
+{"skill": "reminder.add", "text": "напомни вечером купить молоко"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "time.now", "text": "какое сейчас время суток"}
+{"skill": "music.play", "text": "включи что‑то новое из чартов"}
+{"skill": "system.help", "text": "покажи список команд"}
+{"skill": "math.calculate", "text": "вычисли 491 разделить на 22"}
+{"skill": "reminder.add", "text": "напомни через две недели пропылесосить квартиру"}
+{"skill": "alarm.set", "text": "разбуди меня минут в десять одиннадцатого"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "music.play", "text": "включи радио по дороге в Москва"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "news.get", "text": "новости спорта расскажи"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "system.help", "text": "объясни, как создавать напоминания"}
+{"skill": "jokes.tell", "text": "давай анекдот"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "news.get", "text": "что нового в России"}
+{"skill": "music.play", "text": "включи радио по дороге в Сочи"}
+{"skill": "timer.start", "text": "заведи таймер на сорок секунды"}
+{"skill": "jokes.tell", "text": "расскажи забавную историю"}
+{"skill": "weather.get", "text": "погода в Питер завтра"}
+{"skill": "timer.start", "text": "мне нужен таймер на триста сорок два секунду"}
+{"skill": "alarm.set", "text": "разбуди завтра в час дня"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "weather.get", "text": "какая погода на завтра вечером в Казань если будет дождь"}
+{"skill": "weather.get", "text": "погода в Сочи на сегодня"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "news.get", "text": "дай сводку новостей за сегодня"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "timer.start", "text": "запусти таймер на тридцать два секунду"}
+{"skill": "music.play", "text": "включи песню Bohemian Rhapsody"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Самара"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "weather.get", "text": "какая погода на выходных в Сочи со скоростью ветра"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "reminder.add", "text": "напомни мне потом помыть посуду"}
+{"skill": "system.help", "text": "помощь"}
+{"skill": "timer.start", "text": "таймер 59 минут"}
+{"skill": "math.calculate", "text": "мне нужно узнать 37 умножить на 406"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Сочи на выходных"}
+{"skill": "music.play", "text": "включи радио по дороге в Самара"}
+{"skill": "news.get", "text": "что нового в мире"}
+{"skill": "reminder.add", "text": "сделай напоминание: сдать проект в университет"}
+{"skill": "math.calculate", "text": "мне нужно узнать 256 умножить на 447"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "alarm.set", "text": "сделай будильник в восемь пятнадцать, пожалуйста"}
+{"skill": "timer.start", "text": "запусти таймер на двадцать пять секунду"}
+{"skill": "news.get", "text": "какие новости по погоде и пробкам"}
+{"skill": "music.play", "text": "включи All of Me от Adele"}
+{"skill": "math.calculate", "text": "сколько будет 498 плюс 229"}
+{"skill": "jokes.tell", "text": "ещё один анекдот"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "music.play", "text": "включи радио по дороге в Нижний Новгород"}
+{"skill": "news.get", "text": "какие сейчас главные новости дня"}
+{"skill": "weather.get", "text": "погода в Питер на сегодня"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "timer.start", "text": "запусти таймер на триста сорок два час"}
+{"skill": "system.help", "text": "покажи список команд"}
+{"skill": "math.calculate", "text": "вычисли 499 минус 58"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "timer.start", "text": "напомни через 125 минуты"}
+{"skill": "music.play", "text": "включи песню Shape of You"}
+{"skill": "alarm.set", "text": "разбуди меня в начале десятого"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "music.stop", "text": "перестань играть музыку"}
+{"skill": "alarm.set", "text": "напомни мне проснуться в восемь пятнадцать"}
+{"skill": "weather.get", "text": "температура в Самара на завтра вечером"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 12 плюс 125 в уме"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра в час дня"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "jokes.tell", "text": "пошути"}
+{"skill": "news.get", "text": "последние новости про экономику"}
+{"skill": "timer.start", "text": "заведи таймер на двадцать секунду"}
+{"skill": "news.get", "text": "что нового в России"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 469 разделить на 167 в уме"}
+{"skill": "reminder.add", "text": "не дай забыть полить цветы, напомни в начале седьмого"}
+{"skill": "jokes.tell", "text": "подними настроение шуткой"}
+{"skill": "alarm.set", "text": "заведи будильник в четверть восьмого"}
+{"skill": "timer.start", "text": "напомни через 489 минут"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "alarm.set", "text": "разбуди меня через полчаса"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Краснодар послезавтра"}
+{"skill": "news.get", "text": "какие последние новости"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Краснодар"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "timer.start", "text": "запусти таймер на 231 час"}
+{"skill": "math.calculate", "text": "посчитай 395 разделить на 451"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "system.help", "text": "покажи список команд"}
+{"skill": "system.help", "text": "что ты умеешь"}
+{"skill": "alarm.set", "text": "сделай будильник через сорок пять минут, пожалуйста"}
+{"skill": "timer.start", "text": "запусти таймер на 339 минут"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "weather.get", "text": "погода в Москва послезавтра"}
+{"skill": "math.calculate", "text": "сколько будет 397 разделить на 156"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "music.play", "text": "включи песню Bohemian Rhapsody"}
+{"skill": "system.help", "text": "что ты можешь"}
+{"skill": "alarm.set", "text": "разбуди меня сегодня вечером"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра через месяц"}
+{"skill": "math.calculate", "text": "посчитай сто умножить на девяносто"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "reminder.add", "text": "поставь напоминание через пять минут про сходить в зал"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "math.calculate", "text": "посчитай 349 разделить на 180"}
+{"skill": "timer.start", "text": "поставь таймер на шестьдесят семь минуту"}
+{"skill": "alarm.set", "text": "сделай будильник завтра вечером, пожалуйста"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "alarm.set", "text": "мне нужно встать в пятницу вечером, поставь будильник"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "news.get", "text": "какие сейчас главные новости дня"}
+{"skill": "alarm.set", "text": "заведи будильник через полтора часа"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "alarm.set", "text": "сделай будильник сегодня вечером, пожалуйста"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "news.get", "text": "есть что‑нибудь важное в новостях"}
+{"skill": "timer.start", "text": "таймер 89 секунд"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "music.play", "text": "поставь трек Тает лёд"}
+{"skill": "music.stop", "text": "останови воспроизведение песен"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "weather.get", "text": "что по погоде в Екатеринбург на выходных"}
+{"skill": "music.play", "text": "включи старые хиты девяностых"}
+{"skill": "timer.start", "text": "напомни через триста сорок два секунды"}
+{"skill": "timer.start", "text": "мне нужен таймер на сорок пять секунд"}
+{"skill": "reminder.add", "text": "сделай напоминание: помыть посуду"}
+{"skill": "weather.get", "text": "что по погоде в Казань на завтра утром"}
+{"skill": "math.calculate", "text": "посчитай 238 плюс 115"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "timer.start", "text": "мне нужен таймер на 338 часа"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "alarm.set", "text": "разбуди меня в шесть тридцать"}
+{"skill": "system.help", "text": "помощь"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "news.get", "text": "последние новости про экономику"}
+{"skill": "system.help", "text": "расскажи, как работать с таймером"}
+{"skill": "system.help", "text": "что ты можешь делать с музыкой"}
+{"skill": "weather.get", "text": "погода в Сочи на завтра утром"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 141 разделить на 73 в уме"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "music.stop", "text": "останови воспроизведение песен"}
+{"skill": "reminder.add", "text": "напомни через две недели заказать пиццу"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "music.play", "text": "включи что‑то новое из чартов"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "reminder.add", "text": "сделай напоминание: позвонить бабушке"}
+{"skill": "math.calculate", "text": "мне нужно узнать 60 минус 420"}
+{"skill": "weather.get", "text": "будет ли холодно в Екатеринбург на ближайшую неделю"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Новосибирск на завтра утром"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "music.play", "text": "врубим музыку погромче"}
+{"skill": "timer.start", "text": "запусти таймер на 316 секунду"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "music.play", "text": "врубим музыку погромче"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "news.get", "text": "последние новости про экономику"}
+{"skill": "reminder.add", "text": "напомни на выходных помыть посуду"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "time.now", "text": "сколько времени в Москве"}
+{"skill": "system.help", "text": "расскажи, как работать с таймером"}
+{"skill": "weather.get", "text": "температура в Москва послезавтра"}
+{"skill": "reminder.add", "text": "сделай напоминание в семь вечера сделать домашку по математике"}
+{"skill": "music.stop", "text": "останови воспроизведение песен"}
+{"skill": "jokes.tell", "text": "есть свежий анекдот?"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "reminder.add", "text": "сделай напоминание: отправить отчёт начальнику"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Екатеринбург"}
+{"skill": "news.get", "text": "дай короткий обзор новостей"}
+{"skill": "music.play", "text": "включи песни для дороги"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "reminder.add", "text": "напомни вечером заказать пиццу"}
+{"skill": "alarm.set", "text": "сделай будильник сегодня утром, пожалуйста"}
+{"skill": "music.stop", "text": "хватит музыки"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "reminder.add", "text": "сделай напоминание в пятницу вечером сходить в зал"}
+{"skill": "reminder.add", "text": "напомни через десять минут помыть посуду"}
+{"skill": "timer.start", "text": "засеки пятьдесят два часа"}
+{"skill": "reminder.add", "text": "мне нужно сдать проект в университет, напомни мне через две недели"}
+{"skill": "music.stop", "text": "поставь музыку на паузу"}
+{"skill": "music.stop", "text": "выруби музыку"}
+{"skill": "weather.get", "text": "что по погоде в Казань послезавтра"}
+{"skill": "jokes.tell", "text": "давай что‑нибудь юмористическое"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "news.get", "text": "какие последние новости"}
+{"skill": "alarm.set", "text": "поставь будильник в шесть ноль ноль"}
+{"skill": "music.stop", "text": "выключи музыку"}
+{"skill": "weather.get", "text": "будет ли дождь в Москва послезавтра"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "music.play", "text": "включи что‑то новое из чартов"}
+{"skill": "news.get", "text": "дай сводку новостей за сегодня"}
+{"skill": "system.help", "text": "объясни, как создавать напоминания"}
+{"skill": "timer.start", "text": "заведи таймер на двадцать пять минуты"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "math.calculate", "text": "мне нужно узнать 196 плюс 425"}
+{"skill": "reminder.add", "text": "создай напоминание про то, чтобы сделать разминку в четверть восьмого"}
+{"skill": "weather.get", "text": "погода в Новосибирск на сегодня"}
+{"skill": "reminder.add", "text": "напомни через две недели позвонить бабушке"}
+{"skill": "math.calculate", "text": "какой результат если 399 умножить на 203"}
+{"skill": "music.stop", "text": "прекрати воспроизведение"}
+{"skill": "math.calculate", "text": "сколько будет 266 умножить на 236"}
+{"skill": "alarm.set", "text": "разбуди меня через восемь часов"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "weather.get", "text": "погода в Краснодар завтра"}
+{"skill": "time.now", "text": "скажи точное время"}
+{"skill": "alarm.set", "text": "напомни мне проснуться ровно в семь"}
+{"skill": "alarm.set", "text": "разбуди завтра в начале десятого"}
+{"skill": "math.calculate", "text": "сколько будет 463 минус 351"}
+{"skill": "reminder.add", "text": "поставь напоминание через месяц про сделать домашку по математике"}
+{"skill": "alarm.set", "text": "заведи будильник в девять тридцать"}
+{"skill": "timer.start", "text": "поставь таймер на семьдесят секунду"}
+{"skill": "weather.get", "text": "будет ли дождь в Самара на завтра вечером"}
+{"skill": "jokes.tell", "text": "расскажи забавную историю"}
+{"skill": "music.play", "text": "включи Bohemian Rhapsody от Queen"}
+{"skill": "timer.start", "text": "таймер пять час"}
+{"skill": "reminder.add", "text": "завтра утром напомни мне записаться к стоматологу"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "math.calculate", "text": "посчитай 91 умножить на 286"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 310 минус 414 в уме"}
+{"skill": "math.calculate", "text": "посчитай 291 умножить на 404"}
+{"skill": "news.get", "text": "что нового в мире"}
+{"skill": "timer.start", "text": "поставь таймер на пятнадцать секунд"}
+{"skill": "weather.get", "text": "температура в Новосибирск на завтра вечером"}
+{"skill": "weather.get", "text": "погода в Нижний Новгород на завтра вечером"}
+{"skill": "alarm.set", "text": "разбуди меня в понедельник утром"}
+{"skill": "timer.start", "text": "запусти таймер на 54 часа"}
+{"skill": "math.calculate", "text": "сколько будет 227 разделить на 391"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "alarm.set", "text": "сделай будильник в семь вечера, пожалуйста"}
+{"skill": "weather.get", "text": "температура в Уфа на ближайшую неделю"}
+{"skill": "reminder.add", "text": "создай напоминание про то, чтобы позвонить бабушке через полтора часа"}
+{"skill": "time.now", "text": "сколько сейчас времени"}
+{"skill": "weather.get", "text": "что по погоде в Казань на завтра вечером"}
+{"skill": "jokes.tell", "text": "расскажи что‑нибудь смешное про программистов"}
+{"skill": "alarm.set", "text": "заведи будильник через пять минут"}
+{"skill": "weather.get", "text": "какая погода послезавтра в Нижний Новгород примерно"}
+{"skill": "news.get", "text": "что там по новостям"}
+{"skill": "math.calculate", "text": "мне нужно узнать 321 разделить на 163"}
+{"skill": "jokes.tell", "text": "ещё один анекдот"}
+{"skill": "math.calculate", "text": "посчитай 418 умножить на 98"}
+{"skill": "alarm.set", "text": "сделай будильник сегодня утром, пожалуйста"}
+{"skill": "music.play", "text": "включи старые хиты девяностых"}
+{"skill": "timer.start", "text": "засеки сорок минуту"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 221 умножить на 423 в уме"}
+{"skill": "alarm.set", "text": "разбуди меня в девять тридцать"}
+{"skill": "weather.get", "text": "будет ли дождь в Самара на завтра вечером"}
+{"skill": "music.play", "text": "поставь трек Smells Like Teen Spirit"}
+{"skill": "weather.get", "text": "температура в Казань на завтра утром"}
+{"skill": "alarm.set", "text": "поставь будильник завтра утром"}
+{"skill": "system.help", "text": "какие есть функции"}
+{"skill": "weather.get", "text": "будет ли дождь в Сочи на выходных"}
+{"skill": "news.get", "text": "дай короткий обзор новостей"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "timer.start", "text": "заведи таймер на 437 минут"}
+{"skill": "system.help", "text": "что ты умеешь"}
+{"skill": "time.now", "text": "какое сейчас время"}
+{"skill": "math.calculate", "text": "посчитай 381 плюс 490"}
+{"skill": "weather.get", "text": "как одеться в Екатеринбург сегодня по погоде"}
+{"skill": "timer.start", "text": "заведи таймер на пять минуту"}
+{"skill": "music.stop", "text": "останови воспроизведение песен"}
+{"skill": "music.stop", "text": "пауза"}
+{"skill": "music.play", "text": "включи радио по дороге в Сочи"}
+{"skill": "timer.start", "text": "засеки пять часа"}
+{"skill": "alarm.set", "text": "заведи будильник завтра вечером"}
+{"skill": "alarm.set", "text": "разбуди завтра в половину шестого вечера"}
+{"skill": "news.get", "text": "что происходит в мире технологий"}
+{"skill": "weather.get", "text": "какая погода на завтра утром в Краснодар по часам"}
+{"skill": "alarm.set", "text": "сделай будильник без пятнадцати девять, пожалуйста"}
+{"skill": "alarm.set", "text": "поставь будильник через двадцать минут"}
+{"skill": "system.help", "text": "что ты умеешь"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "news.get", "text": "что нового в мире"}
+{"skill": "jokes.tell", "text": "что‑нибудь смешное расскажи"}
+{"skill": "weather.get", "text": "какая погода послезавтра в Питер если будет дождь"}
+{"skill": "jokes.tell", "text": "давай анекдот"}
+{"skill": "system.help", "text": "расскажи о своих возможностях"}
+{"skill": "time.now", "text": "подскажи время"}
+{"skill": "time.now", "text": "который час"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "news.get", "text": "что пишут про выборы"}
+{"skill": "reminder.add", "text": "мне нужно сдать проект в университет, напомни мне через месяц"}
+{"skill": "news.get", "text": "дай короткий обзор новостей"}
+{"skill": "timer.start", "text": "запусти таймер на 215 секунды"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 323 плюс 373 в уме"}
+{"skill": "jokes.tell", "text": "сделай мне смешно расскажи анекдот"}
+{"skill": "timer.start", "text": "заведи таймер на сорок минуту"}
+{"skill": "music.play", "text": "включи что‑то энергичное для тренировки"}
+{"skill": "timer.start", "text": "напомни через сто двадцать пять часа"}
+{"skill": "timer.start", "text": "напомни через шестьдесят семь час"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "news.get", "text": "дай короткий обзор новостей"}
+{"skill": "reminder.add", "text": "сделай напоминание: помыть посуду"}
+{"skill": "jokes.tell", "text": "расскажи шутку"}
+{"skill": "system.help", "text": "что ты умеешь"}
+{"skill": "math.calculate", "text": "посчитай 269 разделить на 173"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "jokes.tell", "text": "что‑нибудь смешное расскажи"}
+{"skill": "alarm.set", "text": "заведи будильник в девять ноль ноль"}
+{"skill": "news.get", "text": "что нового в мире"}
+{"skill": "alarm.set", "text": "будильник в три часа ночи"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "reminder.add", "text": "напомни через две недели сдать проект в университет"}
+{"skill": "timer.start", "text": "напомни через 163 минуту"}
+{"skill": "music.play", "text": "давай музыку для вечеринки"}
+{"skill": "time.now", "text": "какое сейчас время суток"}
+{"skill": "alarm.set", "text": "разбуди завтра через сорок пять минут"}
+{"skill": "music.stop", "text": "выключи звук"}
+{"skill": "reminder.add", "text": "сделай напоминание в четверть восьмого сходить в зал"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "timer.start", "text": "таймер пятнадцать час"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "math.calculate", "text": "какой результат если 481 минус 305"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "system.help", "text": "что я могу у тебя спросить"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Сочи"}
+{"skill": "news.get", "text": "что нового в России"}
+{"skill": "news.get", "text": "расскажи политические новости"}
+{"skill": "math.calculate", "text": "какой результат если 399 плюс 55"}
+{"skill": "jokes.tell", "text": "расскажи забавную историю"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "timer.start", "text": "мне нужен таймер на сто двадцать пять секунду"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "music.play", "text": "включи современный поп"}
+{"skill": "timer.start", "text": "засеки 439 час"}
+{"skill": "timer.start", "text": "засеки 151 секунды"}
+{"skill": "music.stop", "text": "стоп музыка"}
+{"skill": "system.help", "text": "какие есть функции"}
+{"skill": "alarm.set", "text": "поставь будильник на завтра в полседьмого утра"}
+{"skill": "timer.start", "text": "заведи таймер на 9 минут"}
+{"skill": "time.now", "text": "какое время покажет твои часы"}
+{"skill": "timer.start", "text": "засеки 218 минут"}
+{"skill": "weather.get", "text": "что по погоде в Москва на ближайшую неделю"}
+{"skill": "timer.start", "text": "мне нужен таймер на 116 минуты"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 208 разделить на 445 в уме"}
+{"skill": "news.get", "text": "расскажи новости на сегодня"}
+{"skill": "reminder.add", "text": "через час напомни сделать домашку по математике"}
+{"skill": "jokes.tell", "text": "давай прикол"}
+{"skill": "reminder.add", "text": "поставь напоминание через сорок пять минут про помыть посуду"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Екатеринбург"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "timer.start", "text": "напомни через двадцать минут"}
+{"skill": "alarm.set", "text": "разбуди завтра сегодня вечером"}
+{"skill": "time.now", "text": "который час"}
+{"skill": "time.now", "text": "сколько сейчас времени у меня"}
+{"skill": "system.help", "text": "какие есть функции"}
+{"skill": "system.help", "text": "подскажи, как поставить будильник"}
+{"skill": "system.help", "text": "как тобой пользоваться"}
+{"skill": "reminder.add", "text": "напомни в шесть ноль ноль записаться к стоматологу"}
+{"skill": "music.play", "text": "включи плейлист для тренировки"}
+{"skill": "math.calculate", "text": "посчитай пожалуйста 478 разделить на 492 в уме"}
+{"skill": "timer.start", "text": "мне нужен таймер на 130 минуты"}
+{"skill": "math.calculate", "text": "сколько будет 208 минус 398"}
+{"skill": "reminder.add", "text": "сделай напоминание через час выгулять собаку"}
+{"skill": "system.help", "text": "помощь"}
+{"skill": "math.calculate", "text": "посчитай 487 разделить на 208"}
+{"skill": "weather.get", "text": "будет ли дождь в Новосибирск завтра"}
+{"skill": "reminder.add", "text": "напомни через две недели купить молоко"}
+{"skill": "weather.get", "text": "прогноз погоды на неделю для Самара"}
+{"skill": "jokes.tell", "text": "ещё один анекдот"}
+{"skill": "alarm.set", "text": "сделай будильник в семь вечера, пожалуйста"}
+{"skill": "news.get", "text": "какие последние новости"}
+{"skill": "weather.get", "text": "будет ли холодно в Сочи на завтра вечером"}
+{"skill": "weather.get", "text": "будет ли дождь в Сочи на выходных"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "time.now", "text": "скажи время пожалуйста"}
+{"skill": "system.help", "text": "какие есть функции"}
+{"skill": "music.play", "text": "включи что‑нибудь тихое на фоне"}
+{"skill": "reminder.add", "text": "не дай забыть сделать разминку, напомни через час"}
+{"skill": "music.play", "text": "включи мой любимый плейлист"}
+{"skill": "time.now", "text": "какое сейчас время суток"}
+{"skill": "time.now", "text": "во сколько сейчас"}
+{"skill": "weather.get", "text": "погода в Нижний Новгород на сегодня"}
+{"skill": "math.calculate", "text": "какой результат если 340 умножить на 267"}
+{"skill": "reminder.add", "text": "через час напомни позвонить бабушке"}
+{"skill": "system.help", "text": "как тебя использовать"}
+{"skill": "time.now", "text": "который час в Питере"}
+{"skill": "time.now", "text": "сколько сейчас времени по местному"}
+{"skill": "jokes.tell", "text": "подними настроение шуткой"}
+{"skill": "system.help", "text": "что ты умеешь"}
+{"skill": "reminder.add", "text": "сделай напоминание сегодня вечером отправить отчёт начальнику"}
+{"skill": "system.help", "text": "подсказка по командам"}
+{"skill": "reminder.add", "text": "напомни мне потом сделать разминку"}
+{"skill": "jokes.tell", "text": "расскажи забавную историю"}
+{"skill": "alarm.set", "text": "напомни мне проснуться в пятницу вечером"}
+{"skill": "weather.get", "text": "будет ли холодно в Новосибирск на ближайшую неделю"}
+{"skill": "news.get", "text": "что нового в мире"}
+{"skill": "reminder.add", "text": "сделай напоминание послезавтра утром купить молоко"}
+{"skill": "system.help", "text": "какие есть функции"}
+{"skill": "music.play", "text": "включи расслабляющую музыку для сна"}
+{"skill": "timer.start", "text": "заведи таймер на пятьдесят минуту"}
+{"skill": "reminder.add", "text": "поставь напоминание через две минуты про оплатить коммуналку"}
+{"skill": "weather.get", "text": "скажи прогноз погоды для Нижний Новгород на завтра утром"}
+{"skill": "math.calculate", "text": "вычисли 98 минус 291"}
+{"skill": "news.get", "text": "дай короткий обзор новостей"}

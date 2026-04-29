@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+torch
+torchvision
+torchaudio
+faiss-cpu
+requests
