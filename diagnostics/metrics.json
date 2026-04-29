@@ -1,0 +1,25 @@
+{
+  "created_at": "2026-04-29T19:08:37",
+  "model_version": "intent-detector-v1",
+  "total_requests": 2200,
+  "accuracy": 0.9818181818181818,
+  "macro_precision": 0.9818910415631728,
+  "macro_recall": 0.9818186363522731,
+  "macro_f1": 0.9814677389339419,
+  "weighted_precision": 0.9826517966550753,
+  "weighted_recall": 0.9818181818181818,
+  "weighted_f1": 0.9818204230201133,
+  "labels": [
+    "alarm.set",
+    "jokes.tell",
+    "math.calculate",
+    "music.play",
+    "music.stop",
+    "news.get",
+    "reminder.add",
+    "system.help",
+    "time.now",
+    "timer.start",
+    "weather.get"
+  ]
+}

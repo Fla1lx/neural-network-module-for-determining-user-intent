@@ -1,0 +1,11 @@
+{"created_at": "2026-04-29T19:08:37", "model_version": "intent-detector-v1", "intent": "alarm.set", "precision": 1.0, "recall": 1.0, "f1": 1.0, "support": 190}
+{"created_at": "2026-04-29T19:08:37", "model_version": "intent-detector-v1", "intent": "jokes.tell", "precision": 1.0, "recall": 1.0, "f1": 1.0, "support": 193}
+{"created_at": "2026-04-29T19:08:37", "model_version": "intent-detector-v1", "intent": "math.calculate", "precision": 1.0, "recall": 1.0, "f1": 1.0, "support": 179}
+{"created_at": "2026-04-29T19:08:37", "model_version": "intent-detector-v1", "intent": "music.play", "precision": 0.9155555555555556, "recall": 1.0, "f1": 0.9559164733178654, "support": 206}
+{"created_at": "2026-04-29T19:08:37", "model_version": "intent-detector-v1", "intent": "music.stop", "precision": 0.8852459016393442, "recall": 0.8950276243093923, "f1": 0.8901098901098901, "support": 181}
+{"created_at": "2026-04-29T19:08:37", "model_version": "intent-detector-v1", "intent": "news.get", "precision": 1.0, "recall": 1.0, "f1": 1.0, "support": 213}
+{"created_at": "2026-04-29T19:08:37", "model_version": "intent-detector-v1", "intent": "reminder.add", "precision": 1.0, "recall": 0.9049773755656109, "f1": 0.9501187648456056, "support": 221}
+{"created_at": "2026-04-29T19:08:37", "model_version": "intent-detector-v1", "intent": "system.help", "precision": 1.0, "recall": 1.0, "f1": 1.0, "support": 184}
+{"created_at": "2026-04-29T19:08:37", "model_version": "intent-detector-v1", "intent": "time.now", "precision": 1.0, "recall": 1.0, "f1": 1.0, "support": 200}
+{"created_at": "2026-04-29T19:08:37", "model_version": "intent-detector-v1", "intent": "timer.start", "precision": 1.0, "recall": 1.0, "f1": 1.0, "support": 211}
+{"created_at": "2026-04-29T19:08:37", "model_version": "intent-detector-v1", "intent": "weather.get", "precision": 1.0, "recall": 1.0, "f1": 1.0, "support": 222}
